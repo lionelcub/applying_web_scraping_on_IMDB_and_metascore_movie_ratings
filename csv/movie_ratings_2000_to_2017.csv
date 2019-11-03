@@ -1,0 +1,2949 @@
+,movies,year,imdb,metascore,votes,n_imdb
+0,Gladiator,2000,8.5,67,1155643,85
+1,Memento,2000,8.5,80,991943,85
+2,Snatch,2000,8.3,55,693236,83
+3,Requiem for a Dream,2000,8.3,68,673397,83
+4,X-Men,2000,7.4,64,516669,74
+5,Cast Away,2000,7.8,73,454808,78
+6,American Psycho,2000,7.6,64,413578,76
+7,Unbreakable,2000,7.3,62,304556,73
+8,Meet the Parents,2000,7.0,73,286175,70
+9,Mission: Impossible II,2000,6.1,59,279510,61
+10,"O Brother, Where Art Thou?",2000,7.8,69,254281,78
+11,Gone in Sixty Seconds,2000,6.5,35,239521,65
+12,"Crouching Tiger, Hidden Dragon",2000,7.9,93,234937,79
+13,The Patriot,2000,7.2,63,230580,72
+14,Almost Famous,2000,7.9,90,229060,79
+15,Pitch Black,2000,7.1,49,209990,71
+16,Scary Movie,2000,6.2,48,208419,62
+17,"Me, Myself & Irene",2000,6.6,49,204342,66
+18,Final Destination,2000,6.7,36,203805,67
+19,The Beach,2000,6.6,43,201376,66
+20,Amores Perros,2000,8.1,83,200933,81
+21,Traffic,2000,7.6,86,182723,76
+22,Remember the Titans,2000,7.8,48,179367,78
+23,What Women Want,2000,6.4,47,175533,64
+24,How the Grinch Stole Christmas,2000,6.1,46,167916,61
+25,Chocolat,2000,7.3,64,164410,73
+26,Miss Congeniality,2000,6.2,43,160998,62
+27,Charlie's Angels,2000,5.5,52,158941,55
+28,Chicken Run,2000,7.0,88,158108,70
+29,High Fidelity,2000,7.5,79,155291,75
+30,Battle Royale,2000,7.7,81,155145,77
+31,Erin Brockovich,2000,7.3,73,152789,73
+32,The Emperor's New Groove,2000,7.3,70,152288,73
+33,Road Trip,2000,6.5,55,145205,65
+34,The Perfect Storm,2000,6.4,59,143739,64
+35,"Dude, Where's My Car?",2000,5.5,30,126132,55
+36,Hollow Man,2000,5.7,24,111982,57
+37,Scream 3,2000,5.5,56,110378,55
+38,Billy Elliot,2000,7.7,74,110238,77
+39,Shanghai Noon,2000,6.6,77,108203,66
+40,The 6th Day,2000,5.9,49,108132,59
+41,What Lies Beneath,2000,6.6,51,107498,66
+42,Pay It Forward,2000,7.2,40,104900,72
+43,The Whole Nine Yards,2000,6.7,47,99779,67
+44,In the Mood for Love,2000,8.1,85,99445,81
+45,Coyote Ugly,2000,5.6,27,98676,56
+46,Men of Honor,2000,7.2,56,98429,72
+47,The Family Man,2000,6.7,42,94379,67
+48,Frequency,2000,7.4,67,91948,74
+49,Dancer in the Dark,2000,8.0,61,90056,80
+50,Bedazzled,2000,6.0,49,89066,60
+51,Little Nicky,2000,5.3,38,88866,53
+52,The Cell,2000,6.3,40,87275,63
+53,Bring It On,2000,6.0,52,78517,60
+54,Finding Forrester,2000,7.3,62,77681,73
+55,Malèna,2000,7.5,54,76499,75
+56,Big Momma's House,2000,5.1,33,73998,51
+57,The Road to El Dorado,2000,6.9,51,71482,69
+58,Battlefield Earth,2000,2.4,9,71066,24
+59,U-571,2000,6.6,62,70863,66
+60,Space Cowboys,2000,6.4,73,66502,64
+61,Mission to Mars,2000,5.6,34,65715,56
+62,Shaft,2000,5.9,50,63652,59
+63,Romeo Must Die,2000,6.1,52,61848,61
+64,Wonder Boys,2000,7.4,73,57789,74
+65,The Gift,2000,6.7,62,57195,67
+66,Titan A.E.,2000,6.6,48,55407,66
+67,Vertical Limit,2000,5.9,48,53962,59
+68,The Crimson Rivers,2000,6.9,49,53059,69
+69,The Replacements,2000,6.5,30,52964,65
+70,Proof of Life,2000,6.2,45,52149,62
+71,Red Planet,2000,5.7,34,51465,57
+72,Best in Show,2000,7.5,78,50171,75
+73,The Legend of Bagger Vance,2000,6.7,47,49634,67
+74,Thirteen Days,2000,7.3,67,49482,73
+75,Sexy Beast,2000,7.3,79,48661,73
+76,Quills,2000,7.3,70,48150,73
+77,Keeping the Faith,2000,6.4,60,47213,64
+78,Boiler Room,2000,7.0,63,45391,70
+79,Dinosaur,2000,6.5,56,45341,65
+80,Nine Queens,2000,7.9,80,44380,79
+81,Nutty Professor II: The Klumps,2000,4.4,38,44208,44
+82,Rules of Engagement,2000,6.4,45,40770,64
+83,28 Days,2000,6.0,46,39048,60
+84,The Kid,2000,6.1,45,37237,61
+85,Shadow of the Vampire,2000,6.9,71,36921,69
+86,Ginger Snaps,2000,6.8,70,36873,68
+87,Tigerland,2000,7.0,55,35666,70
+88,Reindeer Games,2000,5.7,37,34309,57
+89,Small Time Crooks,2000,6.7,69,33962,67
+90,Chopper,2000,7.2,65,33932,72
+91,Book of Shadows: Blair Witch 2,2000,4.0,15,32859,40
+92,Next Friday,2000,6.1,41,32317,61
+93,Nurse Betty,2000,6.2,69,31472,62
+94,102 Dalmatians,2000,4.9,35,30364,49
+95,Get Carter,2000,5.1,24,29957,51
+96,Dracula 2000,2000,4.9,26,29643,49
+97,Dungeons & Dragons,2000,3.7,14,29584,37
+98,The Way of the Gun,2000,6.7,49,29564,67
+99,Where the Heart Is,2000,6.8,30,29491,68
+100,The Skulls,2000,5.6,24,29047,56
+101,The Art of War,2000,5.7,30,26963,57
+102,Vampire Hunter D: Bloodlust,2000,7.7,62,25826,77
+103,You Can Count on Me,2000,7.6,85,25438,76
+104,Pollock,2000,7.0,77,25099,70
+105,Loser,2000,5.3,35,24662,53
+106,The Watcher,2000,5.3,22,23842,53
+107,Autumn in New York,2000,5.6,24,22605,56
+108,Joint Security Area,2000,7.9,58,22513,79
+109,Before Night Falls,2000,7.3,85,22345,73
+110,The Contender,2000,7.0,59,21652,70
+111,Under Suspicion,2000,6.5,43,20195,65
+112,Brother,2000,7.2,47,20188,72
+113,The Million Dollar Hotel,2000,5.9,25,19598,59
+114,State and Main,2000,6.8,75,19257,68
+115,Together,2000,7.5,84,18997,75
+116,In July,2000,7.8,71,18860,78
+117,Bounce,2000,5.7,52,18843,57
+118,The Flintstones in Viva Rock Vegas,2000,3.6,27,18170,36
+119,My Dog Skip,2000,7.1,61,17976,71
+120,The Adventures of Rocky & Bullwinkle,2000,4.2,36,17975,42
+121,Return to Me,2000,6.9,54,17952,69
+122,Highlander: Endgame,2000,4.6,21,17911,46
+123,The Yards,2000,6.4,58,17845,64
+124,Center Stage,2000,6.7,52,17156,67
+125,Flickering Lights,2000,7.7,47,17022,77
+126,Dr. T & the Women,2000,4.6,64,16588,46
+127,Saving Grace,2000,6.9,62,16489,69
+128,Love & Basketball,2000,7.2,70,16196,72
+129,Yi Yi,2000,8.1,93,16079,81
+130,Supernova,2000,4.8,19,15961,48
+131,Rape Me,2000,4.5,35,15670,45
+132,The Tigger Movie,2000,6.3,53,15070,63
+133,Songs from the Second Floor,2000,7.7,76,15037,77
+134,Boys and Girls,2000,5.4,29,14845,54
+135,Urban Legends: Final Cut,2000,4.2,16,14407,42
+136,The Dish,2000,7.2,74,13965,72
+137,The Princess and the Warrior,2000,7.5,64,13580,75
+138,Gossip,2000,5.9,31,13410,59
+139,The Man Who Cried,2000,6.2,40,13365,62
+140,Down to You,2000,4.9,13,13286,49
+141,Bless the Child,2000,5.1,17,13031,51
+142,Ready to Rumble,2000,5.3,23,12668,53
+143,Drowning Mona,2000,5.6,25,12460,56
+144,Cecil B. DeMented,2000,6.2,57,12294,62
+145,All the Pretty Horses,2000,5.8,55,12214,58
+146,Italian for Beginners,2000,7.1,77,12056,71
+147,Gangster No. 1,2000,6.8,60,12018,68
+148,Animal Factory,2000,6.6,65,11642,66
+149,The Ladies Man,2000,5.1,22,11545,51
+150,The Isle,2000,7.0,61,11321,70
+151,Blood: The Last Vampire,2000,6.7,44,11078,67
+152,Hanging Up,2000,4.8,33,11027,48
+153,Anatomy,2000,6.1,33,10836,61
+154,Werckmeister Harmonies,2000,8.2,92,10646,82
+155,Snow Day,2000,5.0,34,10355,50
+156,Code Unknown,2000,7.2,74,10105,72
+157,The Next Best Thing,2000,4.7,25,10058,47
+158,Lost Souls,2000,4.8,16,9924,48
+159,Bait,2000,5.8,39,9830,58
+160,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,92,1440859,88
+161,A Beautiful Mind,2001,8.2,72,736660,82
+162,"Monsters, Inc.",2001,8.1,78,704375,81
+163,Donnie Darko,2001,8.1,88,675421,81
+164,Amélie,2001,8.3,69,627490,83
+165,Harry Potter and the Sorcerer's Stone,2001,7.6,64,537670,76
+166,Shrek,2001,7.9,84,535564,79
+167,Spirited Away,2001,8.6,96,524966,86
+168,Ocean's Eleven,2001,7.8,74,459582,78
+169,Training Day,2001,7.7,69,344892,77
+170,Black Hawk Down,2001,7.7,74,328484,77
+171,The Fast and the Furious,2001,6.7,58,309768,67
+172,The Others,2001,7.6,74,304226,76
+173,Pearl Harbor,2001,6.1,44,285335,61
+174,Mulholland Drive,2001,8.0,83,279968,80
+175,The Mummy Returns,2001,6.3,48,275718,63
+176,A.I. Artificial Intelligence,2001,7.1,65,267540,71
+177,Jurassic Park III,2001,5.9,42,259489,59
+178,Moulin Rouge!,2001,7.6,66,246073,76
+179,The Royal Tenenbaums,2001,7.6,76,238056,76
+180,Hannibal,2001,6.8,57,230256,68
+181,Vanilla Sky,2001,6.9,45,228091,69
+182,Zoolander,2001,6.6,61,224694,66
+183,American Pie 2,2001,6.4,43,219516,64
+184,Blow,2001,7.6,52,218468,76
+185,Enemy at the Gates,2001,7.6,53,216643,76
+186,Bridget Jones's Diary,2001,6.7,66,198421,67
+187,Planet of the Apes,2001,5.7,50,197312,57
+188,Lara Croft: Tomb Raider,2001,5.8,33,180064,58
+189,Rush Hour 2,2001,6.6,48,179555,66
+190,Swordfish,2001,6.5,32,166170,65
+191,K-PAX,2001,7.4,49,163940,74
+192,Legally Blonde,2001,6.2,59,155684,62
+193,A Knight's Tale,2001,6.9,56,152773,69
+194,Jay and Silent Bob Strike Back,2001,6.9,51,138087,69
+195,From Hell,2001,6.8,54,136318,68
+196,Scary Movie 2,2001,5.3,29,133980,53
+197,I Am Sam,2001,7.6,28,133044,76
+198,Spy Game,2001,7.1,63,132019,71
+199,Shallow Hal,2001,5.9,48,118550,59
+200,The Princess Diaries,2001,6.3,52,111215,63
+201,The Score,2001,6.8,71,110678,68
+202,Evolution,2001,6.1,40,110381,61
+203,Ghost World,2001,7.4,88,104850,74
+204,Y Tu Mamá También,2001,7.7,88,102466,77
+205,Rat Race,2001,6.4,52,100457,64
+206,Jeepers Creepers,2001,6.2,49,99886,62
+207,Spy Kids,2001,5.5,71,95755,55
+208,Serendipity,2001,6.9,52,95526,69
+209,The Mexican,2001,6.1,43,94949,61
+210,The Man Who Wasn't There,2001,7.6,73,94747,76
+211,Behind Enemy Lines,2001,6.4,49,93105,64
+212,Lagaan: Once Upon a Time in India,2001,8.1,84,88807,81
+213,Super Troopers,2001,7.1,48,88339,71
+214,Not Another Teen Movie,2001,5.7,32,88165,57
+215,Atlantis: The Lost Empire,2001,6.8,52,87960,68
+216,Ali,2001,6.8,65,85993,68
+217,The Experiment,2001,7.7,60,85556,77
+218,The One,2001,5.9,25,83849,59
+219,Sweet November,2001,6.7,27,77975,67
+220,Monster's Ball,2001,7.1,69,76983,71
+221,Final Fantasy: The Spirits Within,2001,6.4,49,76943,64
+222,Kate & Leopold,2001,6.4,44,72044,64
+223,Thir13en Ghosts,2001,5.6,30,71950,56
+224,Gosford Park,2001,7.3,90,71380,73
+225,Frailty,2001,7.3,64,69012,73
+226,The Wedding Planner,2001,5.3,33,68694,53
+227,Along Came a Spider,2001,6.3,42,66257,63
+228,Shaolin Soccer,2001,7.3,68,65942,73
+229,The Last Castle,2001,6.9,43,63257,69
+230,Bandits,2001,6.5,60,61205,65
+231,Joy Ride,2001,6.6,75,58689,66
+232,Brotherhood of the Wolf,2001,7.1,57,57179,71
+233,Kiss of the Dragon,2001,6.6,58,56962,66
+234,Waking Life,2001,7.8,82,55543,78
+235,The Devil's Backbone,2001,7.5,78,55267,75
+236,Save the Last Dance,2001,6.2,53,52786,62
+237,The Animal,2001,4.8,43,52164,48
+238,Cats & Dogs,2001,5.1,47,51412,51
+239,America's Sweethearts,2001,5.7,44,51234,57
+240,Original Sin,2001,6.0,33,49276,60
+241,The Majestic,2001,6.9,27,48734,69
+242,Session 9,2001,6.5,58,48620,65
+243,How High,2001,6.3,29,48474,63
+244,The Pledge,2001,6.8,71,48145,68
+245,Wet Hot American Summer,2001,6.7,42,48123,67
+246,Heartbreakers,2001,6.2,47,47731,62
+247,Ichi the Killer,2001,7.1,55,47229,71
+248,The Piano Teacher,2001,7.5,79,47064,75
+249,Ghosts of Mars,2001,4.9,35,47019,49
+250,Joe Dirt,2001,5.9,20,46208,59
+251,15 Minutes,2001,6.1,34,45678,61
+252,Formula 51,2001,6.3,23,45330,63
+253,Don't Say a Word,2001,6.3,38,44590,63
+254,Jason X,2001,4.4,25,44553,44
+255,Freddy Got Fingered,2001,4.5,13,42881,45
+256,Life as a House,2001,7.5,45,41221,75
+257,No Man's Land,2001,8.0,84,41079,80
+258,3000 Miles to Graceland,2001,5.9,21,40927,59
+259,Dr. Dolittle 2,2001,4.7,49,38004,47
+260,Rock Star,2001,6.2,54,37858,62
+261,Cowboy Bebop: The Movie,2001,7.9,61,37397,79
+262,Driven,2001,4.6,29,36823,46
+263,Saving Silverman,2001,5.9,22,36007,59
+264,The Curse of the Jade Scorpion,2001,6.8,52,35032,68
+265,In the Bedroom,2001,7.4,86,34797,74
+266,Black Knight,2001,4.8,32,34441,48
+267,The Believer,2001,7.2,75,33722,72
+268,Hearts in Atlantis,2001,6.9,55,33297,69
+269,Wasabi,2001,6.7,53,33245,67
+270,Mean Machine,2001,6.5,45,32491,65
+271,Sex and Lucia,2001,7.2,65,32308,72
+272,Bully,2001,7.0,45,31744,70
+273,Captain Corelli's Mandolin,2001,5.9,36,30465,59
+274,The Shipping News,2001,6.8,47,30419,68
+275,Heist,2001,6.5,66,30397,65
+276,Exit Wounds,2001,5.5,39,29648,55
+277,Hedwig and the Angry Inch,2001,7.8,85,28761,78
+278,Osmosis Jones,2001,6.3,57,28655,63
+279,The Glass House,2001,5.8,34,28369,58
+280,Bubble Boy,2001,5.6,41,27851,56
+281,Jimmy Neutron: Boy Genius,2001,6.0,65,27261,60
+282,One Night at McCool's,2001,6.1,46,27119,61
+283,Antitrust,2001,6.1,31,27003,61
+284,The Tailor of Panama,2001,6.2,66,25845,62
+285,Hardball,2001,6.4,48,25538,64
+286,Riding in Cars with Boys,2001,6.5,43,24703,65
+287,Birthday Girl,2001,6.1,51,22949,61
+288,Domestic Disturbance,2001,5.5,29,22878,55
+289,Crazy/Beautiful,2001,6.5,61,22677,65
+290,Valentine,2001,4.8,18,22331,48
+291,Buffalo Soldiers,2001,6.8,56,21893,68
+292,Someone Like You...,2001,6.1,32,21808,61
+293,Crocodile Dundee in Los Angeles,2001,4.8,37,21712,48
+294,Monsoon Wedding,2001,7.4,77,21612,74
+295,Impostor,2001,6.2,33,21340,62
+296,Knockaround Guys,2001,6.1,30,20990,61
+297,Angel Eyes,2001,5.6,39,20805,56
+298,Glitter,2001,2.2,14,20456,22
+299,Down to Earth,2001,5.4,32,20252,54
+300,Josie and the Pussycats,2001,5.4,47,20144,54
+301,Enigma,2001,6.4,64,18922,64
+302,Lost and Delirious,2001,7.0,53,18597,70
+303,Metropolis,2001,7.3,75,18566,73
+304,Millennium Actress,2001,7.9,70,18476,79
+305,O,2001,6.2,53,18272,62
+306,Lantana,2001,7.3,84,17443,73
+307,Tape,2001,7.3,71,17277,73
+308,Just Visiting,2001,5.8,38,16756,58
+309,Get Over It,2001,5.8,52,16659,58
+310,Human Nature,2001,6.4,56,16439,64
+311,Tomcats,2001,5.3,15,16391,53
+312,Storytelling,2001,6.9,50,16218,69
+313,The Son's Room,2001,7.4,73,16107,74
+314,Made,2001,6.4,62,15916,64
+315,Iris,2001,7.1,76,15899,71
+316,Out Cold,2001,6.3,22,15520,63
+317,Monkeybone,2001,4.7,40,15489,47
+318,The Closet,2001,7.1,72,15305,71
+319,Kissing Jessica Stein,2001,6.6,72,15000,66
+320,Summer Catch,2001,5.0,21,14165,50
+321,Pulse,2001,6.6,70,13889,66
+322,What's the Worst That Could Happen?,2001,5.5,37,13743,55
+323,The Musketeer,2001,4.7,27,13439,47
+324,Son of the Bride,2001,7.8,68,13323,78
+325,The Lord of the Rings: The Two Towers,2002,8.7,87,1287330,87
+326,Catch Me If You Can,2002,8.1,75,675919,81
+327,City of God,2002,8.6,79,618542,86
+328,Spider-Man,2002,7.3,73,616822,73
+329,The Pianist,2002,8.5,85,606485,85
+330,Star Wars: Episode II - Attack of the Clones,2002,6.6,54,550729,66
+331,Harry Potter and the Chamber of Secrets,2002,7.4,63,464692,74
+332,The Bourne Identity,2002,7.9,68,461896,79
+333,Minority Report,2002,7.7,80,453885,77
+334,Ice Age,2002,7.5,60,380664,75
+335,Gangs of New York,2002,7.5,72,359198,75
+336,28 Days Later...,2002,7.6,73,335420,76
+337,Signs,2002,6.7,59,304121,67
+338,Men in Black II,2002,6.1,49,299069,61
+339,The Ring,2002,7.1,57,288800,71
+340,Equilibrium,2002,7.5,33,288530,75
+341,The Transporter,2002,6.8,51,262402,68
+342,Insomnia,2002,7.2,78,246633,72
+343,Phone Booth,2002,7.1,56,230333,71
+344,Panic Room,2002,6.8,65,230194,68
+345,Resident Evil,2002,6.7,33,225137,67
+346,Red Dragon,2002,7.2,60,225063,72
+347,Road to Perdition,2002,7.7,72,222626,77
+348,8 Mile,2002,7.1,77,218703,71
+349,Chicago,2002,7.2,82,194900,72
+350,Die Another Day,2002,6.1,56,186369,61
+351,A Walk to Remember,2002,7.4,35,182717,74
+352,Blade II,2002,6.7,52,179992,67
+353,Austin Powers in Goldmember,2002,6.2,62,178729,62
+354,Hero,2002,7.9,85,162374,79
+355,xXx,2002,5.9,48,161776,59
+356,Adaptation.,2002,7.7,83,160802,77
+357,25th Hour,2002,7.7,67,160191,77
+358,About a Boy,2002,7.1,75,156115,71
+359,Lilo & Stitch,2002,7.2,73,142129,72
+360,Bowling for Columbine,2002,8.0,72,132378,80
+361,Punch-Drunk Love,2002,7.3,78,127009,73
+362,Mr. Deeds,2002,5.8,24,123178,58
+363,We Were Soldiers,2002,7.2,65,117186,72
+364,Reign of Fire,2002,6.2,39,116882,62
+365,The Scorpion King,2002,5.5,45,116757,55
+366,The Count of Monte Cristo,2002,7.8,61,116488,78
+367,About Schmidt,2002,7.2,85,115247,72
+368,The Hours,2002,7.6,80,113522,76
+369,John Q,2002,7.1,30,111613,71
+370,My Big Fat Greek Wedding,2002,6.6,62,111316,66
+371,The Time Machine,2002,5.9,42,111051,59
+372,Infernal Affairs,2002,8.1,75,108982,81
+373,One Hour Photo,2002,6.8,64,105825,68
+374,Irreversible,2002,7.4,51,101295,74
+375,Bend It Like Beckham,2002,6.7,66,97305,67
+376,Van Wilder: Party Liaison,2002,6.4,26,96213,64
+377,Two Weeks Notice,2002,6.1,42,95447,61
+378,Talk to Her,2002,8.0,86,94828,80
+379,The Sum of All Fears,2002,6.4,45,94491,64
+380,Sweet Home Alabama,2002,6.2,45,92782,62
+381,Treasure Planet,2002,7.1,60,85909,71
+382,Ghost Ship,2002,5.5,28,83857,55
+383,Scooby-Doo,2002,5.0,35,83304,50
+384,The Hot Chick,2002,5.5,29,82443,55
+385,Confessions of a Dangerous Mind,2002,7.1,67,77334,71
+386,Maid in Manhattan,2002,5.1,45,76140,51
+387,Analyze That,2002,5.9,37,76137,59
+388,Secretary,2002,7.0,63,75295,70
+389,Jackass: The Movie,2002,6.6,42,74698,66
+390,Solaris,2002,6.2,65,73366,62
+391,Frida,2002,7.4,61,71858,74
+392,Unfaithful,2002,6.7,63,71338,67
+393,The Tuxedo,2002,5.3,30,70651,53
+394,The Mothman Prophecies,2002,6.5,52,69550,65
+395,Cabin Fever,2002,5.6,56,68463,56
+396,Collateral Damage,2002,5.5,33,66938,55
+397,40 Days and 40 Nights,2002,5.6,53,65958,56
+398,Star Trek: Nemesis,2002,6.4,51,65665,64
+399,Changing Lanes,2002,6.5,69,62245,65
+400,Windtalkers,2002,6.0,51,60936,60
+401,Showtime,2002,5.5,32,56449,55
+402,S1m0ne,2002,6.1,49,55486,61
+403,Spirit: Stallion of the Cimarron,2002,7.1,52,54486,71
+404,K-19: The Widowmaker,2002,6.7,58,54153,67
+405,Sympathy for Mr. Vengeance,2002,7.7,56,53967,77
+406,Spy Kids 2: Island of Lost Dreams,2002,5.1,66,52293,51
+407,The Sweetest Thing,2002,5.1,32,50528,51
+408,Queen of the Damned,2002,5.3,30,48387,53
+409,Murder by Numbers,2002,6.1,50,48232,61
+410,Eight Legged Freaks,2002,5.4,53,48127,54
+411,Hart's War,2002,6.3,49,47437,63
+412,The Rules of Attraction,2002,6.7,50,46895,67
+413,I Spy,2002,5.4,35,45250,54
+414,Orange County,2002,6.2,48,44105,62
+415,Stuart Little 2,2002,5.5,66,43376,55
+416,Bad Company,2002,5.6,37,42391,56
+417,Bubba Ho-Tep,2002,7.1,57,42058,71
+418,The Santa Clause 2,2002,5.6,48,41765,56
+419,Kung Pow: Enter the Fist,2002,6.2,14,40742,62
+420,The Good Girl,2002,6.5,71,40699,65
+421,Far from Heaven,2002,7.4,84,40058,74
+422,Lilya 4-Ever,2002,7.9,82,38905,79
+423,In America,2002,7.8,76,38528,78
+424,Blood Work,2002,6.4,64,38244,64
+425,Dirty Pretty Things,2002,7.4,78,37838,74
+426,L'auberge espagnole,2002,7.3,65,37001,73
+427,Whale Rider,2002,7.6,80,36899,76
+428,Death to Smoochy,2002,6.4,38,36637,64
+429,Narc,2002,7.2,70,36219,72
+430,Crossroads,2002,3.4,27,36151,34
+431,Ju-on: The Grudge,2002,6.7,48,35959,67
+432,Enough,2002,5.7,25,34767,57
+433,High Crimes,2002,6.3,48,34544,63
+434,Spun,2002,6.8,41,34378,68
+435,Dragonfly,2002,6.1,25,34203,61
+436,Spider,2002,6.8,83,32971,68
+437,Big Fat Liar,2002,5.4,36,31801,54
+438,Undercover Brother,2002,5.8,69,31482,58
+439,Halloween: Resurrection,2002,4.1,19,31257,41
+440,The New Guy,2002,5.9,24,31208,59
+441,Drumline,2002,5.7,63,31088,57
+442,Femme Fatale,2002,6.3,59,31004,63
+443,Igby Goes Down,2002,7.0,72,30519,70
+444,The Four Feathers,2002,6.5,49,30353,65
+445,May,2002,6.7,58,29919,67
+446,Antwone Fisher,2002,7.3,62,29625,73
+447,24 Hour Party People,2002,7.4,85,29583,74
+448,The Rookie,2002,7.0,72,29101,70
+449,Boat Trip,2002,4.9,18,28577,49
+450,The Salton Sea,2002,7.2,41,28151,72
+451,Blue Crush,2002,5.7,61,28025,57
+452,White Oleander,2002,7.2,61,27622,72
+453,Barbershop,2002,6.3,66,27080,63
+454,The Eye,2002,6.7,66,26402,67
+455,8 Women,2002,7.1,64,26271,71
+456,Undisputed,2002,6.2,58,25944,62
+457,The Quiet American,2002,7.1,84,25566,71
+458,Rabbit-Proof Fence,2002,7.5,80,25396,75
+459,The Magdalene Sisters,2002,7.8,83,24192,78
+460,Hollywood Ending,2002,6.6,46,23940,66
+461,Rollerball,2002,3.0,14,23691,30
+462,City by the Sea,2002,6.1,50,22848,61
+463,Snow Dogs,2002,5.1,29,22780,51
+464,Friday After Next,2002,5.8,35,22733,58
+465,The Adventures of Pluto Nash,2002,3.8,12,22098,38
+466,Heaven,2002,7.1,68,21837,71
+467,Bloody Sunday,2002,7.7,90,21570,77
+468,Life or Something Like It,2002,5.8,31,21417,58
+469,Trapped,2002,6.2,42,21324,62
+470,The Importance of Being Earnest,2002,6.9,60,20575,69
+471,The Twilight Samurai,2002,8.1,82,20012,81
+472,The Man Without a Past,2002,7.7,84,19805,77
+473,Eight Crazy Nights,2002,5.3,23,19772,53
+474,The Master of Disguise,2002,3.3,12,19767,33
+475,Tuck Everlasting,2002,6.7,66,19617,67
+476,Below,2002,6.2,55,19414,62
+477,Dark Blue,2002,6.6,57,18904,66
+478,Big Trouble,2002,6.5,47,18673,65
+479,Feardotcom,2002,3.3,16,18334,33
+480,Darkness,2002,5.4,15,17830,54
+481,Ballistic: Ecks vs. Sever,2002,3.6,19,17789,36
+482,Swimfan,2002,5.0,29,17630,50
+483,He Loves Me... He Loves Me Not,2002,7.2,63,17458,72
+484,Like Mike,2002,5.2,47,17016,52
+485,Divine Secrets of the Ya-Ya Sisterhood,2002,6.0,48,16656,60
+486,Russian Ark,2002,7.4,86,16601,74
+487,Gerry,2002,6.2,54,16460,62
+488,Roger Dodger,2002,7.0,75,16114,70
+489,Peter Pan II: Return to Neverland,2002,5.8,49,15666,58
+490,Serving Sara,2002,5.3,18,15572,53
+491,The Emperor's Club,2002,6.9,49,15520,69
+492,Distant,2002,7.7,84,15078,77
+493,Laurel Canyon,2002,6.4,61,14914,64
+494,Dolls,2002,7.7,71,14588,77
+495,Swept Away,2002,3.6,18,14205,36
+496,The Lord of the Rings: The Return of the King,2003,8.9,94,1423957,89
+497,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,63,933367,80
+498,Kill Bill: Vol. 1,2003,8.1,69,865347,81
+499,Finding Nemo,2003,8.1,90,829170,81
+500,The Matrix Reloaded,2003,7.2,62,464451,72
+501,X-Men 2,2003,7.5,68,463635,75
+502,Oldboy,2003,8.4,74,436085,84
+503,The Matrix Revolutions,2003,6.7,47,402954,67
+504,Big Fish,2003,8.0,58,381408,80
+505,Mystic River,2003,8.0,84,376970,80
+506,Love Actually,2003,7.6,55,365534,76
+507,Lost in Translation,2003,7.8,89,362613,78
+508,The Last Samurai,2003,7.7,55,358111,77
+509,Terminator 3: Rise of the Machines,2003,6.3,66,339648,63
+510,Bruce Almighty,2003,6.7,46,334925,67
+511,The Italian Job,2003,7.0,68,314046,70
+512,School of Rock,2003,7.1,82,235296,71
+513,Underworld,2003,7.0,42,233440,70
+514,Hulk,2003,5.7,54,233332,57
+515,2 Fast 2 Furious,2003,5.9,38,222479,59
+516,21 Grams,2003,7.7,70,207685,77
+517,Identity,2003,7.3,64,202568,73
+518,Old School,2003,7.1,54,199600,71
+519,Bad Boys II,2003,6.6,38,199549,66
+520,Daredevil,2003,5.3,42,192897,53
+521,Anger Management,2003,6.2,52,186713,62
+522,Master and Commander: The Far Side of the World,2003,7.4,81,185194,74
+523,How to Lose a Guy in 10 Days,2003,6.4,45,182762,64
+524,American Wedding,2003,6.3,43,178010,63
+525,Elf,2003,6.9,64,175147,69
+526,The League of Extraordinary Gentlemen,2003,5.8,30,153747,58
+527,Once Upon a Time in Mexico,2003,6.4,56,141745,64
+528,Final Destination 2,2003,6.2,38,135488,62
+529,Cold Mountain,2003,7.2,73,129037,72
+530,S.W.A.T.,2003,6.0,45,128899,60
+531,Johnny English,2003,6.2,51,127857,62
+532,Good Bye Lenin!,2003,7.7,68,126184,77
+533,Scary Movie 3,2003,5.5,49,124211,55
+534,Bad Santa,2003,7.1,70,123354,71
+535,The Recruit,2003,6.6,56,122071,66
+536,Dogville,2003,8.0,60,121476,80
+537,Monster,2003,7.3,74,120482,73
+538,The Texas Chainsaw Massacre,2003,6.2,38,119532,62
+539,Lara Croft Tomb Raider: The Cradle of Life,2003,5.5,43,118107,55
+540,Matchstick Men,2003,7.3,61,115620,73
+541,Freaky Friday,2003,6.2,70,111003,62
+542,Charlie's Angels: Full Throttle,2003,4.9,48,110003,49
+543,Tears of the Sun,2003,6.6,48,103552,66
+544,Something's Gotta Give,2003,6.7,66,100452,67
+545,Freddy vs. Jason,2003,5.8,37,99723,58
+546,The Life of David Gale,2003,7.6,31,98920,76
+547,Wrong Turn,2003,6.1,32,98081,61
+548,Gothika,2003,5.8,38,97961,58
+549,Paycheck,2003,6.3,43,96308,63
+550,The Dreamers,2003,7.2,62,96252,72
+551,Memories of Murder,2003,8.1,82,93450,81
+552,Shanghai Knights,2003,6.2,58,91096,62
+553,The Rundown,2003,6.7,59,90991,67
+554,Cheaper by the Dozen,2003,5.8,46,84328,58
+555,The Core,2003,5.5,48,84099,55
+556,Runaway Jury,2003,7.1,61,83665,71
+557,Intolerable Cruelty,2003,6.3,71,83435,63
+558,Dreamcatcher,2003,5.5,35,82999,55
+559,Brother Bear,2003,6.8,48,82642,68
+560,Elephant,2003,7.2,70,78267,72
+561,Thirteen,2003,6.8,70,74347,68
+562,"Spring, Summer, Fall, Winter... and Spring",2003,8.1,85,69518,81
+563,Mona Lisa Smile,2003,6.5,45,69046,65
+564,Holes,2003,7.0,71,67573,70
+565,House of 1000 Corpses,2003,6.1,31,67257,61
+566,Girl with a Pearl Earring,2003,6.9,72,66535,69
+567,The Room,2003,3.6,9,66416,36
+568,Ong-Bak: The Thai Warrior,2003,7.2,69,65992,72
+569,The Station Agent,2003,7.7,81,62757,77
+570,Just Married,2003,5.5,28,62739,55
+571,Love Me If You Dare,2003,7.7,45,62050,77
+572,Seabiscuit,2003,7.3,72,61932,73
+573,High Tension,2003,6.8,42,61087,68
+574,House of Sand and Fog,2003,7.6,71,60684,76
+575,Open Range,2003,7.5,67,60138,75
+576,Peter Pan,2003,6.9,64,59833,69
+577,Timeline,2003,5.6,28,56469,56
+578,Daddy Day Care,2003,5.5,39,56351,55
+579,Kal Ho Naa Ho,2003,8.0,54,55198,80
+580,Basic,2003,6.5,34,54737,65
+581,"Legally Blonde 2: Red, White & Blonde",2003,4.7,47,53831,47
+582,Coffee and Cigarettes,2003,7.1,65,53360,71
+583,What a Girl Wants,2003,5.9,41,53339,59
+584,Jeepers Creepers II,2003,5.6,36,52582,56
+585,Out of Time,2003,6.5,63,51332,65
+586,Duplex,2003,5.9,50,50785,59
+587,A Tale of Two Sisters,2003,7.2,65,48899,72
+588,Stuck on You,2003,5.8,62,48011,58
+589,Secondhand Lions,2003,7.6,52,47308,76
+590,Spy Kids 3: Game Over,2003,4.2,57,47137,42
+591,Open Water,2003,5.7,63,46992,57
+592,The Triplets of Belleville,2003,7.8,91,46598,78
+593,Bulletproof Monk,2003,5.5,40,45126,55
+594,American Splendor,2003,7.5,90,44792,75
+595,The Blind Swordsman: Zatoichi,2003,7.6,75,43998,76
+596,Gigli,2003,2.4,18,43858,24
+597,National Security,2003,5.6,31,43089,56
+598,Sinbad: Legend of the Seven Seas,2003,6.7,48,42654,67
+599,The Cat in the Hat,2003,3.8,19,42629,38
+600,Under the Tuscan Sun,2003,6.8,52,41730,68
+601,A Man Apart,2003,6.1,36,41524,61
+602,11:14,2003,7.2,65,41092,72
+603,Honey,2003,5.3,37,40237,53
+604,The Hunted,2003,6.0,40,39634,60
+605,Swimming Pool,2003,6.8,70,38487,68
+606,Cradle 2 the Grave,2003,5.8,36,38200,58
+607,The Return,2003,8.0,82,36869,80
+608,The Haunted Mansion,2003,5.0,34,36633,50
+609,Down with Love,2003,6.3,52,36584,63
+610,Radio,2003,6.9,38,34912,69
+611,The Medallion,2003,5.2,38,34709,52
+612,House of the Dead,2003,2.0,15,34107,20
+613,Hollywood Homicide,2003,5.3,47,33598,53
+614,Dumb and Dumberer: When Harry Met Lloyd,2003,3.4,19,33323,34
+615,Evil,2003,7.8,61,32905,78
+616,Bringing Down the House,2003,5.6,39,32431,56
+617,Uptown Girls,2003,6.1,33,32198,61
+618,Confidence,2003,6.7,59,31862,67
+619,The Lizzie McGuire Movie,2003,5.4,56,31826,54
+620,Shattered Glass,2003,7.2,73,31099,72
+621,Touching the Void,2003,8.0,82,30377,80
+622,The Cooler,2003,7.0,69,30266,70
+623,The Missing,2003,6.5,55,30130,65
+624,Agent Cody Banks,2003,5.1,41,29905,51
+625,Looney Tunes: Back in Action,2003,5.7,64,28842,57
+626,Darkness Falls,2003,5.0,23,28110,50
+627,Anything Else,2003,6.4,43,27632,64
+628,The Human Stain,2003,6.3,57,27415,63
+629,The Barbarian Invasions,2003,7.7,70,26526,77
+630,Kangaroo Jack,2003,4.4,16,26248,44
+631,Beyond Borders,2003,6.5,32,24690,65
+632,Tokyo Godfathers,2003,7.9,73,24584,79
+633,From Justin to Kelly,2003,2.1,14,24223,21
+634,A Mighty Wind,2003,7.3,81,23890,73
+635,Ned Kelly,2003,6.5,56,23732,65
+636,View from the Top,2003,5.2,27,23348,52
+637,My Life Without Me,2003,7.6,57,22733,76
+638,Kontroll,2003,7.7,72,22214,77
+639,Capturing the Friedmans,2003,7.8,90,21707,78
+640,The United States of Leland,2003,7.1,37,21522,71
+641,Calendar Girls,2003,6.9,60,21211,69
+642,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003,8.2,87,21040,82
+643,In the Cut,2003,5.3,46,20097,53
+644,Wonderland,2003,6.6,43,20016,66
+645,Cold Creek Manor,2003,4.9,37,19683,49
+646,The Corporation,2003,8.1,73,19330,81
+647,Code 46,2003,6.2,57,19130,62
+648,Saints and Soldiers,2003,6.8,56,18980,68
+649,Pieces of April,2003,7.1,70,18941,71
+650,The Best of Youth,2003,8.5,89,18503,85
+651,Veronica Guerin,2003,6.9,55,17641,69
+652,Malibu's Most Wanted,2003,5.1,43,17221,51
+653,The Green Butchers,2003,7.3,54,17038,73
+654,Head of State,2003,5.4,44,16719,54
+655,Willard,2003,6.2,61,16286,62
+656,The Order,2003,5.2,21,16028,52
+657,Carandiru,2003,7.6,71,15852,76
+658,Latter Days,2003,7.1,45,15848,71
+659,A Guy Thing,2003,5.6,27,15486,56
+660,One Missed Call,2003,6.2,54,15481,62
+661,Eternal Sunshine of the Spotless Mind,2004,8.3,89,789407,83
+662,Kill Bill: Vol. 2,2004,8.0,83,587606,80
+663,The Incredibles,2004,8.0,90,567163,80
+664,Million Dollar Baby,2004,8.1,86,565589,81
+665,Spider-Man 2,2004,7.3,83,478982,73
+666,Harry Potter and the Prisoner of Azkaban,2004,7.9,82,460446,79
+667,The Notebook,2004,7.9,53,454553,79
+668,Shaun of the Dead,2004,7.9,76,451904,79
+669,"I, Robot",2004,7.1,59,447032,71
+670,Troy,2004,7.2,56,435238,72
+671,The Butterfly Effect,2004,7.7,30,406669,77
+672,The Bourne Supremacy,2004,7.8,73,396107,78
+673,Crash,2004,7.8,69,392545,78
+674,The Day After Tomorrow,2004,6.4,47,372648,64
+675,Shrek 2,2004,7.2,75,362517,72
+676,The Terminal,2004,7.3,55,351040,73
+677,Saw,2004,7.6,46,341294,76
+678,Collateral,2004,7.5,71,326160,75
+679,Ocean's Twelve,2004,6.5,58,321617,65
+680,The Machinist,2004,7.7,61,319769,77
+681,Hotel Rwanda,2004,8.1,79,304240,81
+682,Anchorman: The Legend of Ron Burgundy,2004,7.2,63,299056,72
+683,The Aviator,2004,7.5,77,298050,75
+684,Man on Fire,2004,7.7,47,297756,77
+685,50 First Dates,2004,6.8,48,295338,68
+686,Downfall,2004,8.2,82,292900,82
+687,Mean Girls,2004,7.0,66,288160,70
+688,National Treasure,2004,6.9,39,278734,69
+689,Hellboy,2004,6.9,72,275272,69
+690,Howl's Moving Castle,2004,8.2,80,267705,82
+691,Meet the Fockers,2004,6.3,41,232307,63
+692,Van Helsing,2004,6.1,35,222118,61
+693,The Village,2004,6.5,44,218696,65
+694,Dawn of the Dead,2004,7.3,59,214814,73
+695,Dodgeball: A True Underdog Story,2004,6.7,55,207088,67
+696,The Chronicles of Riddick,2004,6.7,38,200047,67
+697,Garden State,2004,7.5,67,198818,75
+698,Before Sunset,2004,8.1,90,198523,81
+699,The Passion of the Christ,2004,7.2,47,196180,72
+700,Finding Neverland,2004,7.7,67,187571,77
+701,The Girl Next Door,2004,6.7,47,186083,67
+702,Closer,2004,7.3,65,185299,73
+703,A Series of Unfortunate Events,2004,6.8,62,179783,68
+704,Napoleon Dynamite,2004,6.9,64,178952,69
+705,EuroTrip,2004,6.6,45,178428,66
+706,Resident Evil: Apocalypse,2004,6.2,35,170771,62
+707,Harold & Kumar Go to White Castle,2004,7.1,64,168592,71
+708,AVP: Alien vs. Predator,2004,5.6,29,166802,56
+709,Sideways,2004,7.5,94,165580,75
+710,Secret Window,2004,6.6,46,164570,66
+711,The Life Aquatic with Steve Zissou,2004,7.3,62,160463,73
+712,Alexander,2004,5.6,39,151111,56
+713,Blade: Trinity,2004,5.9,38,150566,59
+714,Shark Tale,2004,6.0,48,149267,60
+715,King Arthur,2004,6.3,46,148779,63
+716,Layer Cake,2004,7.4,73,147788,74
+717,Team America: World Police,2004,7.2,64,147486,72
+718,The Polar Express,2004,6.6,61,145300,66
+719,13 Going on 30,2004,6.1,57,141674,61
+720,The Punisher,2004,6.5,33,138516,65
+721,Starsky & Hutch,2004,6.1,55,128997,61
+722,The Grudge,2004,5.9,49,127985,59
+723,Ray,2004,7.7,73,123648,77
+724,Fahrenheit 9/11,2004,7.5,67,120235,75
+725,Along Came Polly,2004,5.9,44,115784,59
+726,White Chicks,2004,5.5,41,113722,55
+727,Kung Fu Hustle,2004,7.8,78,112107,78
+728,The Phantom of the Opera,2004,7.3,40,106928,73
+729,House of Flying Daggers,2004,7.6,89,100046,76
+730,Catwoman,2004,3.3,27,98070,33
+731,The Manchurian Candidate,2004,6.6,76,95063,66
+732,Super Size Me,2004,7.2,73,93566,72
+733,The Ladykillers,2004,6.2,56,91510,62
+734,Bridget Jones: The Edge of Reason,2004,6.0,44,91407,60
+735,The Motorcycle Diaries,2004,7.8,75,89925,78
+736,Primer,2004,6.9,68,86600,69
+737,Cellular,2004,6.5,60,85464,65
+738,Sky Captain and the World of Tomorrow,2004,6.1,64,77394,61
+739,Around the World in 80 Days,2004,5.8,49,76714,58
+740,Hidalgo,2004,6.7,54,72426,67
+741,Taking Lives,2004,6.2,38,72344,62
+742,A Cinderella Story,2004,5.9,25,72216,59
+743,Spanglish,2004,6.4,48,72157,64
+744,The Sea Inside,2004,8.0,74,71148,80
+745,Garfield,2004,5.0,27,69160,50
+746,The SpongeBob SquarePants Movie,2004,7.0,66,68045,70
+747,A Very Long Engagement,2004,7.7,76,67114,77
+748,The Princess Diaries 2: Royal Engagement,2004,5.8,43,64394,58
+749,Mysterious Skin,2004,7.7,73,61625,77
+750,District B13,2004,7.2,70,61251,72
+751,The Forgotten,2004,5.8,43,60916,58
+752,Walking Tall,2004,6.2,44,60485,62
+753,I Heart Huckabees,2004,6.7,55,59718,67
+754,Jersey Girl,2004,6.2,43,59001,62
+755,Wimbledon,2004,6.3,59,55706,63
+756,Ella Enchanted,2004,6.3,53,55103,63
+757,The Stepford Wives,2004,5.3,42,54397,53
+758,Mindhunters,2004,6.4,33,53989,64
+759,Friday Night Lights,2004,7.3,70,52742,73
+760,Ladder 49,2004,6.5,47,51638,65
+761,In Good Company,2004,6.5,66,51156,65
+762,The Chorus,2004,7.9,56,50536,79
+763,Bad Education,2004,7.5,81,50047,75
+764,The Whole Ten Yards,2004,5.5,24,49996,55
+765,Night Watch,2004,6.5,58,49904,65
+766,Wicker Park,2004,7.0,40,49074,70
+767,Flight of the Phoenix,2004,6.1,47,48886,61
+768,Alfie,2004,6.2,49,47277,62
+769,Head-On,2004,8.0,78,45801,80
+770,2046,2004,7.5,78,45749,75
+771,Kinsey,2004,7.1,79,45218,71
+772,Dead Man's Shoes,2004,7.7,52,44669,77
+773,3-Iron,2004,8.1,72,43656,81
+774,Veer & Zaara,2004,7.9,67,43088,79
+775,Saved!,2004,6.8,62,42449,68
+776,Miracle,2004,7.5,68,41838,75
+777,After the Sunset,2004,6.3,38,41419,63
+778,Without a Paddle,2004,5.9,29,40655,59
+779,Scooby-Doo 2: Monsters Unleashed,2004,5.0,34,40145,50
+780,Shall We Dance,2004,6.1,47,39495,61
+781,Taxi,2004,4.5,27,36778,45
+782,The Prince and Me,2004,5.9,47,34989,59
+783,Tae Guk Gi: The Brotherhood of War,2004,8.1,64,34942,81
+784,Christmas with the Kranks,2004,5.3,22,34017,53
+785,Seed of Chucky,2004,4.9,46,33476,49
+786,Raising Helen,2004,6.0,38,33356,60
+787,Chasing Liberty,2004,6.1,46,33165,61
+788,The Libertine,2004,6.4,44,33066,64
+789,Ghost in the Shell 2: Innocence,2004,7.6,66,32615,76
+790,The Merchant of Venice,2004,7.1,63,32305,71
+791,Maria Full of Grace,2004,7.5,87,32298,75
+792,Birth,2004,6.1,50,32205,61
+793,Exorcist: The Beginning,2004,5.1,30,30892,51
+794,The Woodsman,2004,7.2,72,29829,72
+795,Melinda and Melinda,2004,6.5,54,29313,65
+796,The Edukators,2004,7.5,68,29110,75
+797,The Final Cut,2004,6.2,43,28977,62
+798,Mean Creek,2004,7.3,74,28704,73
+799,Envy,2004,4.8,31,28249,48
+800,Spartan,2004,6.6,60,27942,66
+801,Superbabies: Baby Geniuses 2,2004,2.0,9,27940,20
+802,Club Dread,2004,5.7,45,26216,57
+803,Confessions of a Teenage Drama Queen,2004,4.6,33,25396,46
+804,Torque,2004,4.0,41,25391,40
+805,Anacondas: The Hunt for the Blood Orchid,2004,4.6,40,25154,46
+806,Raise Your Voice,2004,5.9,33,24882,59
+807,Win a Date with Tad Hamilton!,2004,5.6,52,24772,56
+808,You Got Served,2004,3.6,37,24606,36
+809,Dirty Dancing: Havana Nights,2004,6.0,39,24528,60
+810,The Assassination of Richard Nixon,2004,7.0,63,24373,70
+811,Godsend,2004,4.8,24,23635,48
+812,A Love Song for Bobby Long,2004,7.2,48,23588,72
+813,Millions,2004,6.9,74,23303,69
+814,Vera Drake,2004,7.7,83,21899,77
+815,The Perfect Score,2004,5.7,35,21627,57
+816,Laws of Attraction,2004,5.9,38,20481,59
+817,Nobody Knows,2004,8.1,88,20133,81
+818,Dear Frankie,2004,7.8,63,20057,78
+819,Soul Plane,2004,4.4,33,19877,44
+820,9 Songs,2004,4.8,43,19846,48
+821,Surviving Christmas,2004,5.4,19,19745,54
+822,New York Minute,2004,4.9,33,19631,49
+823,First Daughter,2004,5.0,31,19254,50
+824,Vanity Fair,2004,6.2,53,18921,62
+825,Bride & Prejudice,2004,6.2,55,18693,62
+826,Batman Begins,2005,8.3,70,1145254,83
+827,V for Vendetta,2005,8.2,62,919996,82
+828,Sin City,2005,8.0,74,704562,80
+829,Star Wars: Episode III - Revenge of the Sith,2005,7.6,68,614084,76
+830,Harry Potter and the Goblet of Fire,2005,7.7,81,460955,77
+831,Mr. & Mrs. Smith,2005,6.5,55,400317,65
+832,War of the Worlds,2005,6.5,73,375214,65
+833,Charlie and the Chocolate Factory,2005,6.7,72,372245,67
+834,King Kong,2005,7.2,81,355463,72
+835,The 40-Year-Old Virgin,2005,7.1,73,350566,71
+836,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,6.9,75,326637,69
+837,Madagascar,2005,6.9,57,313508,69
+838,Wedding Crashers,2005,7.0,64,306149,70
+839,Brokeback Mountain,2005,7.7,87,290126,77
+840,Fantastic Four,2005,5.7,40,290069,57
+841,The Island,2005,6.9,50,283258,69
+842,Lord of War,2005,7.6,62,271058,76
+843,Hitch,2005,6.6,58,270387,66
+844,Constantine,2005,7.0,50,267490,70
+845,Serenity,2005,7.9,74,263453,79
+846,Kingdom of Heaven,2005,7.2,63,243334,72
+847,Pride & Prejudice,2005,7.8,82,221847,78
+848,Corpse Bride,2005,7.4,83,215936,74
+849,Saw II,2005,6.6,40,211820,66
+850,Walk the Line,2005,7.9,72,206369,79
+851,A History of Violence,2005,7.5,81,205667,75
+852,Thank You for Smoking,2005,7.6,71,203164,76
+853,Kiss Kiss Bang Bang,2005,7.6,72,197317,76
+854,Munich,2005,7.6,74,193927,76
+855,Match Point,2005,7.6,72,186237,76
+856,The Descent,2005,7.2,71,178366,72
+857,Transporter 2,2005,6.3,56,174574,63
+858,The Hitchhiker's Guide to the Galaxy,2005,6.8,63,172938,68
+859,Cinderella Man,2005,8.0,69,162690,80
+860,Jarhead,2005,7.0,58,158282,70
+861,Hostel,2005,5.9,55,154347,59
+862,The Longest Yard,2005,6.4,48,146158,64
+863,Hard Candy,2005,7.1,58,143733,71
+864,Flightplan,2005,6.3,53,139592,63
+865,Green Street Hooligans,2005,7.5,55,130726,75
+866,Memoirs of a Geisha,2005,7.4,54,128864,74
+867,The Constant Gardener,2005,7.4,82,122240,74
+868,Fun with Dick and Jane,2005,6.1,47,121968,61
+869,Four Brothers,2005,6.9,49,121763,69
+870,Syriana,2005,6.9,76,118198,69
+871,Robots,2005,6.3,64,117923,63
+872,Æon Flux,2005,5.5,36,117470,55
+873,Capote,2005,7.4,88,113618,74
+874,The Curse of the Were-Rabbit,2005,7.5,87,111342,75
+875,The Exorcism of Emily Rose,2005,6.7,46,108012,67
+876,The Brothers Grimm,2005,5.9,51,107921,59
+877,Coach Carter,2005,7.3,57,106588,73
+878,House of Wax,2005,5.3,41,104759,53
+879,Red Eye,2005,6.5,71,102807,65
+880,The Jacket,2005,7.1,44,101462,71
+881,Hostage,2005,6.6,44,100381,66
+882,The Skeleton Key,2005,6.5,47,97263,65
+883,Doom,2005,5.2,34,96655,52
+884,The Amityville Horror,2005,6.0,33,95941,60
+885,Just Friends,2005,6.2,47,93773,62
+886,Brick,2005,7.4,72,92832,74
+887,Unleashed,2005,7.0,58,92171,70
+888,The Interpreter,2005,6.4,62,91682,64
+889,Just Like Heaven,2005,6.7,47,90790,67
+890,Broken Flowers,2005,7.2,79,89839,72
+891,"Good Night, and Good Luck.",2005,7.5,80,88813,75
+892,Land of the Dead,2005,6.2,71,85216,62
+893,Sahara,2005,6.0,41,84550,60
+894,The Devil's Rejects,2005,6.9,53,83805,69
+895,The Ring Two,2005,5.4,44,82730,54
+896,The Legend of Zorro,2005,5.9,47,82632,59
+897,Revolver,2005,6.5,25,82050,65
+898,Waiting...,2005,6.8,30,81850,68
+899,Zathura: A Space Adventure,2005,6.2,67,80552,62
+900,Elektra,2005,4.7,34,79569,47
+901,The Pacifier,2005,5.6,30,77343,56
+902,The New World,2005,6.7,69,77155,67
+903,Hide and Seek,2005,5.9,35,76475,59
+904,Chicken Little,2005,5.8,48,74971,58
+905,The Weather Man,2005,6.6,61,73521,66
+906,The Dukes of Hazzard,2005,5.1,33,71139,51
+907,Sky High,2005,6.2,62,69838,62
+908,Assault on Precinct 13,2005,6.3,54,69693,63
+909,Into the Blue,2005,5.8,45,68577,58
+910,Stay,2005,6.9,41,68516,69
+911,The Squid and the Whale,2005,7.4,82,67801,74
+912,Derailed,2005,6.6,40,66871,66
+913,Caché,2005,7.3,83,64021,73
+914,Bewitched,2005,4.8,34,63629,48
+915,Be Cool,2005,5.7,37,63587,57
+916,A Lot Like Love,2005,6.6,48,63305,66
+917,Elizabethtown,2005,6.4,45,63112,64
+918,Lady Vengeance,2005,7.6,75,62145,76
+919,Wolf Creek,2005,6.3,54,61712,63
+920,xXx: State of the Union,2005,4.4,37,61668,44
+921,Domino,2005,6.0,36,61452,60
+922,Miss Congeniality 2: Armed & Fabulous,2005,5.1,34,60379,51
+923,Harsh Times,2005,6.9,56,58962,69
+924,Nanny McPhee,2005,6.6,59,58789,66
+925,Goal! The Dream Begins,2005,6.7,53,55953,67
+926,In Her Shoes,2005,6.5,60,55692,65
+927,Dark Water,2005,5.6,52,55256,56
+928,The Family Stone,2005,6.3,56,54408,63
+929,Everything Is Illuminated,2005,7.5,58,54089,75
+930,March of the Penguins,2005,7.6,79,52104,76
+931,Hoodwinked!,2005,6.5,45,51078,65
+932,Monster-in-Law,2005,5.5,31,50005,55
+933,The Sisterhood of the Traveling Pants,2005,6.5,66,49377,65
+934,Stealth,2005,5.0,35,48802,50
+935,Cheaper by the Dozen 2,2005,5.5,34,48654,55
+936,Casanova,2005,6.5,57,48363,65
+937,Lords of Dogtown,2005,7.1,56,48130,71
+938,The World's Fastest Indian,2005,7.8,68,47951,78
+939,Son of the Mask,2005,2.2,20,47353,22
+940,Grizzly Man,2005,7.8,87,46847,78
+941,Rumor Has It...,2005,5.5,35,46617,55
+942,The Proposition,2005,7.4,73,46288,74
+943,Rent,2005,7.0,53,45297,70
+944,Deuce Bigalow: European Gigolo,2005,4.6,23,44698,46
+945,White Noise,2005,5.5,30,44600,55
+946,The Wedding Date,2005,6.1,32,43668,61
+947,The Matador,2005,6.8,65,42196,68
+948,Herbie Fully Loaded,2005,4.8,47,40843,48
+949,Adam's Apples,2005,7.8,51,40528,78
+950,Get Rich or Die Tryin',2005,5.2,45,40331,52
+951,Two for the Money,2005,6.2,50,40086,62
+952,Proof,2005,6.8,64,40074,68
+953,Alone in the Dark,2005,2.3,9,39816,23
+954,Fever Pitch,2005,6.2,56,39223,62
+955,Transamerica,2005,7.4,66,38513,74
+956,The Producers,2005,6.4,52,37745,64
+957,Prime,2005,6.2,58,37573,62
+958,Guess Who,2005,5.9,49,37211,59
+959,Three Burials,2005,7.4,77,36347,74
+960,North Country,2005,7.3,68,36153,73
+961,Hustle & Flow,2005,7.4,68,36023,74
+962,Kicking & Screaming,2005,5.6,45,33128,56
+963,The Ringer,2005,5.8,46,33111,58
+964,Me and You and Everyone We Know,2005,7.3,76,33085,73
+965,The Protector,2005,7.1,52,32720,71
+966,BloodRayne,2005,2.9,18,32169,29
+967,The Fog,2005,3.6,27,32093,36
+968,The Cave,2005,5.1,30,32055,51
+969,Keeping Mum,2005,6.8,53,30791,68
+970,C.R.A.Z.Y.,2005,8.0,81,29632,80
+971,Tideland,2005,6.5,26,29313,65
+972,Angel-A,2005,7.1,48,29216,71
+973,Must Love Dogs,2005,5.9,46,28537,59
+974,Oliver Twist,2005,6.9,65,28305,69
+975,Cursed,2005,5.0,31,28248,50
+976,Boogeyman,2005,4.2,32,28077,42
+977,Feast,2005,6.4,43,27497,64
+978,An Unfinished Life,2005,7.0,49,26536,70
+979,Imagine Me & You,2005,6.8,49,26505,68
+980,Tsotsi,2005,7.3,70,26387,73
+981,The Perfect Man,2005,5.5,27,25978,55
+982,Are We There Yet?,2005,4.6,27,25808,46
+983,The Greatest Game Ever Played,2005,7.5,55,25021,75
+984,The Adventures of Sharkboy and Lavagirl 3-D,2005,3.5,38,24942,35
+985,Joyeux Noel,2005,7.8,70,24658,78
+986,Cry Wolf,2005,5.9,39,24510,59
+987,Sophie Scholl: The Final Days,2005,7.6,76,24428,76
+988,"Yours, Mine & Ours",2005,5.4,38,24196,54
+989,An American Haunting,2005,5.0,38,23426,50
+990,The Man,2005,5.6,33,23344,56
+991,Shopgirl,2005,6.4,62,22433,64
+992,Ice Princess,2005,6.0,55,22266,60
+993,The Ice Harvest,2005,6.3,62,21904,63
+994,Mirrormask,2005,6.9,55,21411,69
+995,Man of the House,2005,5.4,35,21348,54
+996,The Departed,2006,8.5,85,1028543,85
+997,The Prestige,2006,8.5,66,1016438,85
+998,300,2006,7.7,52,672640,77
+999,Pirates of the Caribbean: Dead Man's Chest,2006,7.3,53,593664,73
+1000,Pan's Labyrinth,2006,8.2,98,550387,82
+1001,Casino Royale,2006,8.0,80,523849,80
+1002,Blood Diamond,2006,8.0,64,449460,80
+1003,X-Men: The Last Stand,2006,6.7,58,435650,67
+1004,Children of Men,2006,7.9,84,411598,79
+1005,Little Miss Sunshine,2006,7.8,80,397691,78
+1006,The Pursuit of Happyness,2006,8.0,64,390580,80
+1007,The Da Vinci Code,2006,6.6,46,360237,66
+1008,The Illusionist,2006,7.6,68,329667,76
+1009,The Devil Wears Prada,2006,6.9,62,325594,69
+1010,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,7.3,89,324586,73
+1011,Cars,2006,7.1,73,310745,71
+1012,The Lives of Others,2006,8.4,89,308615,84
+1013,Inside Man,2006,7.6,76,304331,76
+1014,Mission: Impossible III,2006,6.9,66,294636,69
+1015,Lucky Number Slevin,2006,7.8,53,283621,78
+1016,Click,2006,6.4,45,275056,64
+1017,Night at the Museum,2006,6.4,48,273752,64
+1018,Deja Vu,2006,7.1,59,268332,71
+1019,Babel,2006,7.5,69,266996,75
+1020,Apocalypto,2006,7.8,68,263576,78
+1021,Superman Returns,2006,6.1,72,256172,61
+1022,Ice Age: The Meltdown,2006,6.8,58,224382,68
+1023,Crank,2006,7.0,57,216218,70
+1024,Perfume: The Story of a Murderer,2006,7.5,56,212511,75
+1025,The Fountain,2006,7.3,51,211658,73
+1026,The Fast and the Furious: Tokyo Drift,2006,6.0,45,210312,60
+1027,The Holiday,2006,6.9,52,209185,69
+1028,Stranger Than Fiction,2006,7.6,67,203118,76
+1029,Silent Hill,2006,6.6,31,197366,66
+1030,Rocky Balboa,2006,7.2,63,182313,72
+1031,Underworld: Evolution,2006,6.7,36,175718,67
+1032,Saw III,2006,6.2,48,161529,62
+1033,The Last King of Scotland,2006,7.7,74,161352,77
+1034,Happy Feet,2006,6.5,77,151775,65
+1035,Talladega Nights: The Ballad of Ricky Bobby,2006,6.6,66,147811,66
+1036,The Hills Have Eyes,2006,6.4,52,145016,64
+1037,Letters from Iwo Jima,2006,7.9,89,143440,79
+1038,Over the Hedge,2006,6.7,67,142629,67
+1039,She's the Man,2006,6.4,45,132364,64
+1040,Smokin' Aces,2006,6.7,45,129440,67
+1041,Idiocracy,2006,6.6,66,126681,66
+1042,The Lake House,2006,6.8,52,125835,68
+1043,Snakes on a Plane,2006,5.5,58,123651,55
+1044,Clerks II,2006,7.4,65,122386,74
+1045,16 Blocks,2006,6.6,63,119773,66
+1046,Final Destination 3,2006,5.8,41,116187,58
+1047,Eragon,2006,5.1,38,115328,51
+1048,Accepted,2006,6.5,47,114302,65
+1049,The Break-Up,2006,5.8,45,112999,58
+1050,Flags of our Fathers,2006,7.1,79,109447,71
+1051,This Is England,2006,7.7,86,107675,77
+1052,Scary Movie 4,2006,5.1,40,103718,51
+1053,Step Up,2006,6.5,48,101662,65
+1054,Miami Vice,2006,6.0,65,100721,60
+1055,The Fall,2006,7.9,64,99241,79
+1056,Little Children,2006,7.5,75,98894,75
+1057,Flushed Away,2006,6.6,74,98218,66
+1058,A Scanner Darkly,2006,7.1,73,97862,71
+1059,The Queen,2006,7.3,91,95431,73
+1060,Tenacious D in The Pick of Destiny,2006,6.8,55,94314,68
+1061,Alpha Dog,2006,6.9,53,93582,69
+1062,Rescue Dawn,2006,7.3,77,92853,73
+1063,Running Scared,2006,7.4,41,92752,74
+1064,The Good Shepherd,2006,6.7,61,92558,67
+1065,United 93,2006,7.6,90,90716,76
+1066,Marie Antoinette,2006,6.4,65,90393,64
+1067,Poseidon,2006,5.6,50,89545,56
+1068,Lady in the Water,2006,5.6,36,87299,56
+1069,Volver,2006,7.6,84,85513,76
+1070,Monster House,2006,6.6,68,85162,66
+1071,The Painted Veil,2006,7.5,69,84072,75
+1072,The Guardian,2006,6.9,53,81485,69
+1073,The Host,2006,7.0,85,81402,70
+1074,A Good Year,2006,7.0,47,80125,70
+1075,Half Nelson,2006,7.2,85,78754,72
+1076,Cashback,2006,7.2,54,78256,72
+1077,An Inconvenient Truth,2006,7.5,75,75706,75
+1078,Open Season,2006,6.1,49,75368,61
+1079,Ultraviolet,2006,4.4,18,75279,44
+1080,Scoop,2006,6.7,48,74419,67
+1081,John Tucker Must Die,2006,5.8,41,73853,58
+1082,"You, Me and Dupree",2006,5.6,46,73584,56
+1083,Nacho Libre,2006,5.7,52,73542,57
+1084,The Pink Panther,2006,5.6,38,73381,56
+1085,World Trade Center,2006,6.0,66,72806,60
+1086,Grandma's Boy,2006,7.0,33,72525,70
+1087,Notes on a Scandal,2006,7.4,73,69600,74
+1088,Slither,2006,6.5,69,68005,65
+1089,Fearless,2006,7.7,70,67762,77
+1090,The Black Dahlia,2006,5.6,49,67220,56
+1091,"Paris, je t'aime",2006,7.3,66,66855,73
+1092,Black Book,2006,7.8,71,66549,78
+1093,Failure to Launch,2006,5.6,47,65024,56
+1094,The Science of Sleep,2006,7.3,70,64971,73
+1095,Dreamgirls,2006,6.5,76,62778,65
+1096,The Texas Chainsaw Massacre: The Beginning,2006,5.9,30,62429,59
+1097,Jackass Number Two,2006,7.1,66,61608,71
+1098,Beerfest,2006,6.3,46,59631,63
+1099,Invincible,2006,7.1,63,58675,71
+1100,The Wicker Man,2006,3.7,36,58510,37
+1101,My Super Ex-Girlfriend,2006,5.1,50,57951,51
+1102,Paprika,2006,7.7,81,57364,77
+1103,Black Snake Moan,2006,7.0,52,57181,70
+1104,Penelope,2006,6.8,48,55918,68
+1105,Eight Below,2006,7.3,64,54720,73
+1106,Date Movie,2006,2.8,11,53686,28
+1107,Firewall,2006,5.8,45,53012,58
+1108,The Omen,2006,5.5,43,52522,55
+1109,We Are Marshall,2006,7.1,53,52145,71
+1110,RV,2006,5.5,33,51278,55
+1111,Wristcutters: A Love Story,2006,7.3,62,50288,73
+1112,Just My Luck,2006,5.4,29,49392,54
+1113,Tristan + Isolde,2006,6.8,49,48028,68
+1114,Inland Empire,2006,7.0,72,47977,70
+1115,The Sentinel,2006,6.1,49,45125,61
+1116,Tell No One,2006,7.5,82,44825,75
+1117,Littleman,2006,4.3,26,44656,43
+1118,The Benchwarmers,2006,5.6,25,44478,56
+1119,The Covenant,2006,5.3,19,43397,53
+1120,The Grudge 2,2006,5.0,33,43166,50
+1121,The Wind that Shakes the Barley,2006,7.5,82,41290,75
+1122,DOA: Dead or Alive,2006,4.8,38,41039,48
+1123,Employee of the Month,2006,5.5,36,40677,55
+1124,Candy,2006,7.3,57,39782,73
+1125,Bobby,2006,7.0,54,39668,70
+1126,The Last Kiss,2006,6.5,57,39542,65
+1127,Curse of the Golden Flower,2006,7.0,70,39360,70
+1128,When a Stranger Calls,2006,5.1,27,39004,51
+1129,Glory Road,2006,7.2,58,38900,72
+1130,Flyboys,2006,6.5,47,38577,65
+1131,Gridiron Gang,2006,6.9,52,38228,69
+1132,Black Sheep,2006,5.8,62,36954,58
+1133,Big Momma's House 2,2006,4.7,34,36508,47
+1134,Aquamarine,2006,5.3,51,34547,53
+1135,Southland Tales,2006,5.5,44,34487,55
+1136,Basic Instinct 2,2006,4.3,26,34174,43
+1137,Severance,2006,6.5,62,34147,65
+1138,Turistas,2006,5.4,36,33589,54
+1139,The Ant Bully,2006,5.8,59,33488,58
+1140,Garfield 2,2006,5.0,37,33196,50
+1141,Charlotte's Web,2006,6.3,68,32190,63
+1142,Day Watch,2006,6.5,59,31672,65
+1143,Hollywoodland,2006,6.5,62,31006,65
+1144,Bug,2006,6.1,62,30603,61
+1145,Find Me Guilty,2006,7.1,65,30474,71
+1146,The Marine,2006,4.7,45,30084,47
+1147,Shortbus,2006,6.5,64,29855,65
+1148,Man of the Year,2006,6.2,39,29827,62
+1149,Arthur and the Invisibles,2006,6.0,39,29287,60
+1150,After the Wedding,2006,7.8,78,28678,78
+1151,All the Boys Love Mandy Lane,2006,5.6,44,28569,56
+1152,Priceless,2006,7.0,72,28437,70
+1153,Stay Alive,2006,5.1,24,27857,51
+1154,Tales from Earthsea,2006,6.5,47,27786,65
+1155,Unknown,2006,6.5,44,27723,65
+1156,School for Scoundrels,2006,5.9,44,27720,59
+1157,Goya's Ghosts,2006,6.9,52,27387,69
+1158,Seraphim Falls,2006,6.7,62,27031,67
+1159,Them,2006,6.5,60,26939,65
+1160,The Santa Clause 3: The Escape Clause,2006,4.7,32,26874,47
+1161,Fido,2006,6.7,70,26716,67
+1162,Pulse,2006,4.7,27,26574,47
+1163,This Film Is Not Yet Rated,2006,7.5,75,26467,75
+1164,Miss Potter,2006,7.0,57,25957,70
+1165,No Country for Old Men,2007,8.1,91,732021,81
+1166,I Am Legend,2007,7.2,65,612033,72
+1167,The Bourne Ultimatum,2007,8.0,85,567898,80
+1168,Transformers,2007,7.1,61,557013,71
+1169,Ratatouille,2007,8.0,96,549394,80
+1170,Pirates of the Caribbean: At World's End,2007,7.1,50,538476,71
+1171,Into the Wild,2007,8.1,73,505996,81
+1172,Superbad,2007,7.6,76,468685,76
+1173,Juno,2007,7.5,81,455172,75
+1174,There Will Be Blood,2007,8.1,93,444720,81
+1175,Spider-Man 3,2007,6.2,59,441492,62
+1176,Harry Potter and the Order of the Phoenix,2007,7.5,71,426862,75
+1177,Hot Fuzz,2007,7.9,81,408931,79
+1178,Zodiac,2007,7.7,78,371104,77
+1179,Live Free or Die Hard,2007,7.2,69,363195,72
+1180,American Gangster,2007,7.8,76,356197,78
+1181,Knocked Up,2007,7.0,85,324083,70
+1182,Sweeney Todd: The Demon Barber of Fleet Street,2007,7.4,83,313483,74
+1183,Ocean's Thirteen,2007,6.9,62,288739,69
+1184,Shooter,2007,7.2,53,283807,72
+1185,The Simpsons Movie,2007,7.3,80,283719,73
+1186,3:10 to Yuma,2007,7.7,76,262363,77
+1187,The Mist,2007,7.2,58,252434,72
+1188,Shrek the Third,2007,6.0,58,243074,60
+1189,1408,2007,6.8,64,235504,68
+1190,28 Weeks Later,2007,7.0,78,235294,70
+1191,Stardust,2007,7.7,66,233087,77
+1192,Fantastic 4: Rise of the Silver Surfer,2007,5.6,45,232735,56
+1193,Gone Baby Gone,2007,7.7,72,225433,77
+1194,Atonement,2007,7.8,85,220236,78
+1195,Sunshine,2007,7.3,64,213900,73
+1196,Eastern Promises,2007,7.7,82,208919,77
+1197,The Bucket List,2007,7.4,42,207627,74
+1198,Ghost Rider,2007,5.2,35,203226,52
+1199,Paranormal Activity,2007,6.3,68,203155,63
+1200,Disturbia,2007,6.9,62,202692,69
+1201,National Treasure: Book of Secrets,2007,6.5,48,200544,65
+1202,P.S. I Love You,2007,7.1,39,187534,71
+1203,Resident Evil: Extinction,2007,6.3,41,168690,63
+1204,Grindhouse,2007,7.6,77,166602,76
+1205,The Golden Compass,2007,6.1,51,163422,61
+1206,Fracture,2007,7.2,68,162760,72
+1207,Enchanted,2007,7.1,75,160426,71
+1208,The Darjeeling Limited,2007,7.2,67,159386,72
+1209,The Assassination of Jesse James by the Coward Robert Ford,2007,7.5,68,152637,75
+1210,30 Days of Night,2007,6.6,53,152335,66
+1211,Beowulf,2007,6.2,59,152253,62
+1212,Hitman,2007,6.3,35,151074,63
+1213,Michael Clayton,2007,7.3,82,145923,73
+1214,Blades of Glory,2007,6.3,64,143120,63
+1215,Shoot 'Em Up,2007,6.7,49,137846,67
+1216,Next,2007,6.2,42,136656,62
+1217,Rush Hour 3,2007,6.2,44,136462,62
+1218,The Orphanage,2007,7.5,74,133870,75
+1219,Mr. Brooks,2007,7.3,45,133476,73
+1220,I Now Pronounce You Chuck & Larry,2007,6.0,37,130515,60
+1221,Lars and the Real Girl,2007,7.3,70,127838,73
+1222,Evan Almighty,2007,5.4,37,127070,54
+1223,Saw IV,2007,5.9,36,127034,59
+1224,Bridge to Terabithia,2007,7.2,74,126877,72
+1225,Bee Movie,2007,6.1,54,122445,61
+1226,The Kingdom,2007,7.0,56,110415,70
+1227,Hairspray,2007,6.7,81,109417,67
+1228,Wild Hogs,2007,5.9,27,107313,59
+1229,Aliens vs. Predator: Requiem,2007,4.7,29,105326,47
+1230,Once,2007,7.9,88,102755,79
+1231,Mr. Bean's Holiday,2007,6.4,56,101950,64
+1232,Across the Universe,2007,7.4,56,99612,74
+1233,Death at a Funeral,2007,7.4,67,98924,74
+1234,Charlie Wilson's War,2007,7.1,69,98015,71
+1235,Halloween,2007,6.1,47,97646,61
+1236,August Rush,2007,7.5,38,96932,75
+1237,The Diving Bell and the Butterfly,2007,8.0,92,96739,80
+1238,Epic Movie,2007,2.3,17,96107,23
+1239,Hannibal Rising,2007,6.2,35,95316,62
+1240,Dan in Real Life,2007,6.8,65,92232,68
+1241,Elite Squad,2007,8.1,33,90162,81
+1242,Music and Lyrics,2007,6.5,59,89174,65
+1243,Reign Over Me,2007,7.5,61,88825,75
+1244,Before the Devil Knows You're Dead,2007,7.3,84,88484,73
+1245,Vacancy,2007,6.2,54,87431,62
+1246,Funny Games,2007,6.5,44,80472,65
+1247,Good Luck Chuck,2007,5.6,19,79886,56
+1248,Persepolis,2007,8.1,90,79474,81
+1249,War,2007,6.3,36,79061,63
+1250,The Heartbreak Kid,2007,5.8,46,78462,58
+1251,We Own the Night,2007,6.9,59,78236,69
+1252,Hostel: Part II,2007,5.5,46,78177,55
+1253,Meet the Robinsons,2007,6.9,61,77152,69
+1254,Dead Silence,2007,6.2,34,76679,62
+1255,La Vie en Rose,2007,7.6,66,75098,76
+1256,The Kite Runner,2007,7.6,61,73236,76
+1257,Sicko,2007,8.0,74,70581,80
+1258,88 Minutes,2007,5.9,17,70403,59
+1259,The Invasion,2007,5.9,45,69774,59
+1260,Awake,2007,6.5,33,68344,65
+1261,Hot Rod,2007,6.7,43,67619,67
+1262,Premonition,2007,5.9,29,67585,59
+1263,Alvin and the Chipmunks,2007,5.2,39,66278,52
+1264,Death Sentence,2007,6.8,36,65073,68
+1265,No Reservations,2007,6.3,50,64955,63
+1266,In the Valley of Elah,2007,7.2,65,64677,72
+1267,Chak de! India,2007,8.2,68,63276,82
+1268,"Run, Fatboy, Run",2007,6.6,48,62547,66
+1269,Walk Hard: The Dewey Cox Story,2007,6.8,63,61075,68
+1270,Surf's Up,2007,6.7,64,60423,67
+1271,Norbit,2007,4.0,27,60356,40
+1272,Elizabeth: The Golden Age,2007,6.9,45,60277,69
+1273,Freedom Writers,2007,7.5,64,59985,75
+1274,Charlie Bartlett,2007,7.0,54,59853,70
+1275,TMNT,2007,6.3,41,57261,63
+1276,Control,2007,7.7,78,56346,77
+1277,The Hills Have Eyes II,2007,5.1,32,55497,51
+1278,Breach,2007,7.0,74,54948,70
+1279,The Brave One,2007,6.8,56,54293,68
+1280,The Lookout,2007,7.0,73,54063,70
+1281,Becoming Jane,2007,7.1,55,52680,71
+1282,The Nanny Diaries,2007,6.2,46,52599,62
+1283,I'm Not There.,2007,7.0,73,52544,70
+1284,The Great Debaters,2007,7.6,65,52224,76
+1285,Rendition,2007,6.8,55,51113,68
+1286,The Game Plan,2007,6.2,44,51108,62
+1287,"4 Months, 3 Weeks and 2 Days",2007,7.9,97,50566,79
+1288,Timecrimes,2007,7.2,68,50247,72
+1289,My Blueberry Nights,2007,6.7,52,48297,67
+1290,The Condemned,2007,6.1,23,47704,61
+1291,Cassandra's Dream,2007,6.7,49,47340,67
+1292,Lions for Lambs,2007,6.2,47,44563,62
+1293,Diary of the Dead,2007,5.7,66,43459,57
+1294,Sydney White,2007,6.3,45,41995,63
+1295,Perfect Stranger,2007,5.7,31,41331,57
+1296,In the Name of the King: A Dungeon Siege Tale,2007,3.8,15,41249,38
+1297,Mongol: The Rise of Genghis Khan,2007,7.3,74,41200,73
+1298,Waitress,2007,7.0,75,40812,70
+1299,The Counterfeiters,2007,7.6,78,40177,76
+1300,The Reaping,2007,5.7,36,40014,57
+1301,Pathfinder,2007,5.4,29,39981,54
+1302,The Visitor,2007,7.7,79,39670,77
+1303,Mr. Magorium's Wonder Emporium,2007,6.2,48,39119,62
+1304,Teeth,2007,5.4,57,38219,54
+1305,Balls of Fury,2007,5.3,38,38195,53
+1306,The Hitcher,2007,5.6,28,37751,56
+1307,The Messengers,2007,5.4,34,35937,54
+1308,Fred Claus,2007,5.6,42,35563,56
+1309,License to Wed,2007,5.3,25,35436,53
+1310,Boy A,2007,7.6,75,35252,76
+1311,Cleaner,2007,6.1,49,35032,61
+1312,Because I Said So,2007,5.6,26,35013,56
+1313,The Water Horse,2007,6.5,71,34701,65
+1314,The Savages,2007,7.2,85,33835,72
+1315,"Lust, Caution",2007,7.6,61,33713,76
+1316,Mr. Woodcock,2007,5.2,41,33284,52
+1317,The Invisible,2007,6.3,36,32986,63
+1318,The King of Kong: A Fistful of Quarters,2007,8.1,83,32830,81
+1319,The Air I Breathe,2007,6.9,37,32573,69
+1320,The Last Legion,2007,5.4,37,31979,54
+1321,The Nines,2007,6.4,52,30844,64
+1322,In the Land of Women,2007,6.5,47,29683,65
+1323,Son of Rambow,2007,7.0,66,29063,70
+1324,P2,2007,5.9,37,28785,59
+1325,2 Days in Paris,2007,6.8,67,28636,68
+1326,The Edge of Heaven,2007,7.8,85,28321,78
+1327,Sleuth,2007,6.5,49,28309,65
+1328,Paranoid Park,2007,6.7,83,26978,67
+1329,Things We Lost in the Fire,2007,7.2,63,26178,72
+1330,The Dark Knight,2008,9.0,84,1968937,90
+1331,WALL·E,2008,8.4,95,864236,84
+1332,Iron Man,2008,7.9,79,811983,79
+1333,Slumdog Millionaire,2008,8.0,86,722704,80
+1334,Gran Torino,2008,8.1,72,647651,81
+1335,Taken,2008,7.8,50,526486,78
+1336,The Curious Case of Benjamin Button,2008,7.8,70,520876,78
+1337,Hancock,2008,6.4,49,396263,64
+1338,Twilight,2008,5.2,56,380405,52
+1339,The Hurt Locker,2008,7.6,94,379116,76
+1340,The Incredible Hulk,2008,6.8,61,378516,68
+1341,Indiana Jones and the Kingdom of the Crystal Skull,2008,6.2,65,377322,62
+1342,Quantum of Solace,2008,6.6,58,367064,66
+1343,Kung Fu Panda,2008,7.6,73,361702,76
+1344,In Bruges,2008,7.9,67,350238,79
+1345,Tropic Thunder,2008,7.0,71,342303,70
+1346,Cloverfield,2008,7.0,64,341136,70
+1347,Wanted,2008,6.7,64,331515,67
+1348,Yes Man,2008,6.8,46,301704,68
+1349,Pineapple Express,2008,7.0,64,284344,70
+1350,Burn After Reading,2008,7.0,63,277293,70
+1351,The Wrestler,2008,7.9,81,272466,79
+1352,Jumper,2008,6.1,35,265552,61
+1353,Seven Pounds,2008,7.6,36,260561,76
+1354,Forgetting Sarah Marshall,2008,7.2,67,241205,72
+1355,Step Brothers,2008,6.9,51,237974,69
+1356,Hellboy II: The Golden Army,2008,7.0,78,231895,70
+1357,Vicky Cristina Barcelona,2008,7.1,70,221881,71
+1358,Changeling,2008,7.8,63,217830,78
+1359,RocknRolla,2008,7.3,53,214401,73
+1360,The Reader,2008,7.6,58,211961,76
+1361,21,2008,6.8,48,208590,68
+1362,Role Models,2008,6.9,61,207657,69
+1363,Valkyrie,2008,7.1,56,207315,71
+1364,Rambo,2008,7.0,46,196411,70
+1365,Body of Lies,2008,7.1,57,194012,71
+1366,Ip Man,2008,8.0,59,191544,80
+1367,Let the Right One In,2008,7.9,82,190203,79
+1368,Get Smart,2008,6.5,54,184762,65
+1369,Death Race,2008,6.4,43,182996,64
+1370,The Happening,2008,5.0,34,180436,50
+1371,Mamma Mia!,2008,6.4,51,179077,64
+1372,Madagascar: Escape 2 Africa,2008,6.7,61,173021,67
+1373,You Don't Mess with the Zohan,2008,5.5,54,172609,55
+1374,Revolutionary Road,2008,7.3,69,171599,73
+1375,The Chronicles of Narnia: Prince Caspian,2008,6.5,62,171477,65
+1376,Bolt,2008,6.9,67,167453,69
+1377,Eagle Eye,2008,6.6,43,163485,66
+1378,The Bank Job,2008,7.3,69,163027,73
+1379,Zack and Miri Make a Porno,2008,6.6,56,161573,66
+1380,The Boy in the Striped Pajamas,2008,7.8,55,160992,78
+1381,What Happens in Vegas,2008,6.1,36,153943,61
+1382,The Day the Earth Stood Still,2008,5.5,40,152046,55
+1383,Milk,2008,7.6,84,151654,76
+1384,Transporter 3,2008,6.1,51,142659,61
+1385,"Definitely, Maybe",2008,7.2,59,142011,72
+1386,27 Dresses,2008,6.1,47,139919,61
+1387,Vantage Point,2008,6.6,40,136407,66
+1388,The Mummy: Tomb of the Dragon Emperor,2008,5.2,31,135397,52
+1389,Marley & Me,2008,7.1,53,131773,71
+1390,Defiance,2008,7.2,58,127452,72
+1391,Harold & Kumar Escape from Guantanamo Bay,2008,6.6,57,122535,66
+1392,Horton Hears a Who!,2008,6.8,71,117930,68
+1393,"10,000 BC",2008,5.1,34,117683,51
+1394,Max Payne,2008,5.4,31,115556,54
+1395,Australia,2008,6.6,53,111430,66
+1396,Doubt,2008,7.5,68,110626,75
+1397,Sex and the City,2008,5.6,53,107471,56
+1398,The Strangers,2008,6.2,47,106737,62
+1399,Bronson,2008,7.1,71,105186,71
+1400,Saw V,2008,5.8,20,102994,58
+1401,Ponyo,2008,7.7,86,102270,77
+1402,Street Kings,2008,6.8,55,100990,68
+1403,Journey to the Center of the Earth,2008,5.8,57,100630,58
+1404,Meet the Spartans,2008,2.7,9,95475,27
+1405,Frost/Nixon,2008,7.7,80,95407,77
+1406,The Forbidden Kingdom,2008,6.6,57,95050,66
+1407,Mirrors,2008,6.2,35,94994,62
+1408,The Other Boleyn Girl,2008,6.7,50,93593,67
+1409,Never Back Down,2008,6.6,39,88643,66
+1410,Babylon A.D.,2008,5.6,26,88052,56
+1411,Be Kind Rewind,2008,6.4,52,84713,64
+1412,The X Files: I Want to Believe,2008,5.9,47,84027,59
+1413,Nick and Norah's Infinite Playlist,2008,6.7,64,82330,67
+1414,Disaster Movie,2008,1.9,15,80737,19
+1415,Bedtime Stories,2008,6.1,33,79891,61
+1416,Righteous Kill,2008,6.0,36,79136,60
+1417,Sex Drive,2008,6.5,49,78409,65
+1418,The Spiderwick Chronicles,2008,6.6,62,78373,66
+1419,Step Up 2: The Streets,2008,6.3,50,74439,63
+1420,Semi-Pro,2008,5.8,47,72863,58
+1421,The House Bunny,2008,5.5,55,71571,55
+1422,Felon,2008,7.5,58,71253,75
+1423,The Duchess,2008,6.9,62,70096,69
+1424,"Synecdoche, New York",2008,7.5,67,68510,75
+1425,Outlander,2008,6.3,40,67857,63
+1426,Eden Lake,2008,6.8,65,67492,68
+1427,Doomsday,2008,6.0,51,67317,60
+1428,Fool's Gold,2008,5.7,29,66644,57
+1429,Sunshine Cleaning,2008,6.9,61,65566,69
+1430,How to Lose Friends & Alienate People,2008,6.4,35,64730,64
+1431,Ghost Town,2008,6.7,72,64715,67
+1432,Blindness,2008,6.6,45,64551,66
+1433,The Ruins,2008,5.9,44,64401,59
+1434,Speed Racer,2008,6.0,37,63685,60
+1435,Quarantine,2008,6.0,53,63562,60
+1436,Made of Honor,2008,5.9,37,61162,59
+1437,Hunger,2008,7.6,82,59166,76
+1438,City of Ember,2008,6.5,58,58401,65
+1439,Superhero Movie,2008,4.5,33,58031,45
+1440,The Spirit,2008,4.8,30,56782,48
+1441,Pride and Glory,2008,6.7,45,56300,67
+1442,Religulous,2008,7.7,56,55327,77
+1443,Four Christmases,2008,5.7,41,55288,57
+1444,Punisher: War Zone,2008,6.0,30,55244,60
+1445,Appaloosa,2008,6.7,64,54477,67
+1446,Drillbit Taylor,2008,5.7,41,54311,57
+1447,The Midnight Meat Train,2008,6.1,58,53753,61
+1448,Traitor,2008,7.0,60,52347,70
+1449,Bangkok Dangerous,2008,5.4,24,51922,54
+1450,Waltz with Bashir,2008,8.0,91,51049,80
+1451,High School Musical 3: Senior Year,2008,4.6,57,50793,46
+1452,Star Wars: The Clone Wars,2008,5.9,35,48884,59
+1453,The Eye,2008,5.4,36,47950,54
+1454,Man on Wire,2008,7.8,89,47830,78
+1455,"Food, Inc.",2008,7.8,80,46968,78
+1456,The Chaser,2008,7.9,64,46768,79
+1457,The Love Guru,2008,3.8,24,46516,38
+1458,Transsiberian,2008,6.7,72,46476,67
+1459,The Brothers Bloom,2008,6.8,55,45485,68
+1460,Lakeview Terrace,2008,6.1,47,44827,61
+1461,Untraceable,2008,6.2,32,44383,62
+1462,Rachel Getting Married,2008,6.7,82,44165,67
+1463,W.,2008,6.3,56,43500,63
+1464,Departures,2008,8.1,68,43395,81
+1465,Gomorrah,2008,7.0,87,42365,70
+1466,"New York, I Love You",2008,6.3,49,42271,63
+1467,Red Cliff,2008,7.4,73,40505,74
+1468,My Best Friend's Girl,2008,5.9,34,40028,59
+1469,Baby Mama,2008,6.0,55,37553,60
+1470,JCVD,2008,7.2,64,35631,72
+1471,Deception,2008,6.1,31,35598,61
+1472,Happy-Go-Lucky,2008,7.0,84,35210,70
+1473,Meet Dave,2008,5.0,43,34952,50
+1474,The Hottie & the Nottie,2008,1.9,7,34762,19
+1475,The Rocker,2008,6.2,53,34713,62
+1476,Nothing But the Truth,2008,7.2,64,33465,72
+1477,The Tale of Despereaux,2008,6.1,53,33441,61
+1478,Two Lovers,2008,7.0,74,32934,70
+1479,The Baader Meinhof Complex,2008,7.4,76,32803,74
+1480,The Class,2008,7.5,92,31719,75
+1481,Passengers,2008,5.9,40,31168,59
+1482,Prom Night,2008,3.9,17,30710,39
+1483,Nim's Island,2008,6.0,55,30635,60
+1484,Choke,2008,6.5,47,30080,65
+1485,Shutter,2008,5.2,37,29962,52
+1486,Che: Part Two,2008,6.9,64,29950,69
+1487,Splinter,2008,6.1,58,29946,61
+1488,Chaos Theory,2008,6.7,44,29853,67
+1489,The Good the Bad the Weird,2008,7.3,69,29776,73
+1490,Leatherheads,2008,6.0,56,29447,60
+1491,Mesrine Part 1: Killer Instinct,2008,7.6,71,29382,76
+1492,One Missed Call,2008,4.0,24,28914,40
+1493,Pathology,2008,6.0,55,28857,60
+1494,The Wackness,2008,7.0,61,28702,70
+1495,Dear Zachary: A Letter to a Son About His Father,2008,8.6,82,27869,86
+1496,On-Bak 2,2008,6.2,47,27089,62
+1497,Mesrine Part 2: Public Enemy #1,2008,7.5,72,26017,75
+1498,Pontypool,2008,6.6,54,25849,66
+1499,Jodhaa Akbar,2008,7.6,69,25400,76
+1500,Inglourious Basterds,2009,8.3,69,1065928,83
+1501,Avatar,2009,7.8,83,1003107,78
+1502,Up,2009,8.3,88,804036,83
+1503,The Hangover,2009,7.7,73,648438,77
+1504,District 9,2009,7.9,81,588489,79
+1505,Star Trek,2009,8.0,82,547497,80
+1506,Sherlock Holmes,2009,7.6,57,532906,76
+1507,Zombieland,2009,7.7,73,440851,77
+1508,Watchmen,2009,7.6,56,438644,76
+1509,500 Days of Summer,2009,7.7,76,427730,77
+1510,X-Men Origins: Wolverine,2009,6.6,40,419657,66
+1511,Harry Potter and the Half-Blood Prince,2009,7.6,78,392013,76
+1512,Transformers: Revenge of the Fallen,2009,6.0,35,355553,60
+1513,2012,2009,5.8,49,317809,58
+1514,Terminator Salvation,2009,6.6,49,312545,66
+1515,Moon,2009,7.9,67,301384,79
+1516,Up in the Air,2009,7.4,83,294055,74
+1517,3 Idiots,2009,8.4,67,282040,84
+1518,The Proposal,2009,6.7,48,261455,67
+1519,The Blind Side,2009,7.7,53,256869,77
+1520,Public Enemies,2009,7.0,70,254466,70
+1521,Angels & Demons,2009,6.7,48,244095,67
+1522,Law Abiding Citizen,2009,7.4,34,243327,74
+1523,The Twilight Saga: New Moon,2009,4.7,44,241199,47
+1524,Fast & Furious,2009,6.6,46,234162,66
+1525,Knowing,2009,6.2,41,204168,62
+1526,The Road,2009,7.3,64,200915,73
+1527,Ice Age: Dawn of the Dinosaurs,2009,7.0,50,193576,70
+1528,The Girl with the Dragon Tattoo,2009,7.8,76,192008,78
+1529,Mr. Nobody,2009,7.9,63,188416,79
+1530,G.I. Joe: The Rise of Cobra,2009,5.8,32,188010,58
+1531,The Ugly Truth,2009,6.5,28,183968,65
+1532,"I Love You, Man",2009,7.0,70,181558,70
+1533,Cloudy with a Chance of Meatballs,2009,7.0,66,177623,70
+1534,Drag Me to Hell,2009,6.6,83,172718,66
+1535,Coraline,2009,7.7,80,171943,77
+1536,Orphan,2009,7.0,42,169157,70
+1537,Fantastic Mr. Fox,2009,7.8,83,168871,78
+1538,The Taking of Pelham 123,2009,6.4,55,167572,64
+1539,The Secret in Their Eyes,2009,8.2,80,164924,82
+1540,17 Again,2009,6.4,48,161946,64
+1541,Surrogates,2009,6.3,45,160743,63
+1542,Night at the Museum: Battle of the Smithsonian,2009,5.9,42,152815,59
+1543,He's Just Not That Into You,2009,6.4,47,145757,64
+1544,Adventureland,2009,6.8,76,144086,68
+1545,The Lovely Bones,2009,6.7,42,140544,67
+1546,Underworld: Rise of the Lycans,2009,6.6,44,138097,66
+1547,Invictus,2009,7.4,74,137387,74
+1548,The Imaginarium of Doctor Parnassus,2009,6.8,65,135933,68
+1549,Pandorum,2009,6.8,28,134029,68
+1550,Brüno,2009,5.8,54,131032,58
+1551,Monsters vs. Aliens,2009,6.5,56,130769,65
+1552,The Time Traveler's Wife,2009,7.1,47,128602,71
+1553,Crank: High Voltage,2009,6.2,41,127365,62
+1554,State of Play,2009,7.1,64,123076,71
+1555,9,2009,7.1,60,122543,71
+1556,Gamer,2009,5.8,27,122418,58
+1557,An Education,2009,7.3,85,120964,73
+1558,The Men Who Stare at Goats,2009,6.2,54,119072,62
+1559,A Serious Man,2009,7.0,79,116909,70
+1560,Daybreakers,2009,6.5,57,114262,65
+1561,Funny People,2009,6.3,60,107271,63
+1562,The Princess and the Frog,2009,7.1,73,104221,71
+1563,The Invention of Lying,2009,6.4,58,103864,64
+1564,Jennifer's Body,2009,5.2,47,103075,52
+1565,Antichrist,2009,6.6,49,102018,66
+1566,Brothers,2009,7.1,58,99861,71
+1567,Pirate Radio,2009,7.4,58,99298,74
+1568,Push,2009,6.1,36,98522,61
+1569,Precious,2009,7.3,79,97703,73
+1570,A Single Man,2009,7.6,77,96869,76
+1571,Where the Wild Things Are,2009,6.8,71,94719,68
+1572,Paul Blart: Mall Cop,2009,5.2,39,92878,52
+1573,Julie & Julia,2009,7.0,66,91899,70
+1574,Couples Retreat,2009,5.5,23,91801,55
+1575,Bride Wars,2009,5.5,24,90979,55
+1576,Saw VI,2009,6.0,30,89967,60
+1577,A Christmas Carol,2009,6.8,55,86718,68
+1578,A Prophet,2009,7.9,90,86213,79
+1579,Splice,2009,5.7,66,85781,57
+1580,Friday the 13th,2009,5.6,34,85763,56
+1581,The Final Destination,2009,5.2,30,85761,52
+1582,I Love You Phillip Morris,2009,6.6,65,85513,66
+1583,The International,2009,6.5,52,85223,65
+1584,Year One,2009,4.9,34,83429,49
+1585,The Box,2009,5.6,47,83257,56
+1586,My Sister's Keeper,2009,7.4,51,82933,74
+1587,The Girl Who Played with Fire,2009,7.2,66,82168,72
+1588,Harry Brown,2009,7.2,55,79272,72
+1589,It's Complicated,2009,6.6,57,78067,66
+1590,Crazy Heart,2009,7.3,83,77042,73
+1591,The Last House on the Left,2009,6.6,42,76866,66
+1592,Ghosts of Girlfriends Past,2009,5.8,34,75274,58
+1593,Bad Lieutenant: Port of Call New Orleans,2009,6.6,69,69590,66
+1594,The Uninvited,2009,6.4,43,69501,64
+1595,Youth in Revolt,2009,6.5,63,69415,65
+1596,Confessions of a Shopaholic,2009,5.9,38,69220,59
+1597,Case 39,2009,6.2,25,68768,62
+1598,The Fourth Kind,2009,5.9,34,68462,59
+1599,The Human Centipede (First Sequence),2009,4.4,33,65617,44
+1600,Whatever Works,2009,7.2,45,65589,72
+1601,Solomon Kane,2009,6.1,48,64638,61
+1602,Dragonball: Evolution,2009,2.6,45,63859,26
+1603,Chloe,2009,6.3,48,63251,63
+1604,Ninja Assassin,2009,6.4,34,63013,64
+1605,A Perfect Getaway,2009,6.5,63,62287,65
+1606,Dogtooth,2009,7.3,73,62142,73
+1607,[Rec] 2,2009,6.5,52,62015,65
+1608,The White Ribbon,2009,7.8,82,60853,78
+1609,The Girl Who Kicked the Hornet's Nest,2009,7.3,60,60191,73
+1610,Whip It,2009,6.9,68,60175,69
+1611,Agora,2009,7.2,55,59680,72
+1612,Dead Snow,2009,6.3,61,59589,63
+1613,Land of the Lost,2009,5.4,32,58822,54
+1614,The Informant!,2009,6.5,66,58229,65
+1615,The Boondock Saints II: All Saints Day,2009,6.3,24,57358,63
+1616,Enter the Void,2009,7.3,69,56713,73
+1617,Brooklyn's Finest,2009,6.7,43,56666,67
+1618,Observe and Report,2009,5.8,54,55981,58
+1619,The Haunting in Connecticut,2009,5.9,33,55060,59
+1620,Everybody's Fine,2009,7.1,47,54908,71
+1621,Fish Tank,2009,7.3,81,53495,73
+1622,Fanboys,2009,6.6,45,53364,66
+1623,The Young Victoria,2009,7.3,64,52151,73
+1624,The Collector,2009,6.4,29,50543,64
+1625,Valhalla Rising,2009,6.0,61,50049,60
+1626,In the Loop,2009,7.5,83,49605,75
+1627,My Bloody Valentine,2009,5.5,51,49436,55
+1628,Race to Witch Mountain,2009,5.7,52,49376,57
+1629,Away We Go,2009,7.1,58,48943,71
+1630,The Soloist,2009,6.7,61,47624,67
+1631,Planet 51,2009,6.1,39,45903,61
+1632,The Unborn,2009,4.8,30,45878,48
+1633,Duplicity,2009,6.2,69,44449,62
+1634,The Cove,2009,8.5,84,44240,85
+1635,Extract,2009,6.2,61,41864,62
+1636,Halloween II,2009,4.9,35,41847,49
+1637,Black Dynamite,2009,7.4,65,41057,74
+1638,District 13: Ultimatum,2009,6.5,64,40329,65
+1639,Nine,2009,5.8,49,40178,58
+1640,Fired Up!,2009,6.2,31,39985,62
+1641,Cirque du Freak: The Vampire's Assistant,2009,5.9,43,39373,59
+1642,Capitalism: A Love Story,2009,7.4,61,38934,74
+1643,The Pink Panther 2,2009,5.6,36,37815,56
+1644,G-Force,2009,5.1,41,37621,51
+1645,Alvin and the Chipmunks: The Squeakquel,2009,4.5,41,37273,45
+1646,The Damned United,2009,7.6,81,36990,76
+1647,Notorious,2009,6.7,60,36916,67
+1648,All About Steve,2009,4.8,17,36466,48
+1649,The Joneses,2009,6.5,55,36187,65
+1650,Thirst,2009,7.2,73,36142,72
+1651,Hannah Montana: The Movie,2009,4.3,47,35695,43
+1652,This Is It,2009,7.3,67,35669,73
+1653,Spread,2009,5.9,43,35507,59
+1654,Coco Before Chanel,2009,6.7,65,35485,67
+1655,About Elly,2009,8.1,87,35483,81
+1656,The House of the Devil,2009,6.4,73,35312,64
+1657,Mother,2009,7.8,79,34997,78
+1658,World's Greatest Dad,2009,6.9,69,34830,69
+1659,Broken Embraces,2009,7.2,76,34785,72
+1660,Middle Men,2009,6.6,60,34684,66
+1661,After.Life,2009,5.9,36,33803,59
+1662,Old Dogs,2009,5.4,19,33770,54
+1663,Defendor,2009,6.8,57,33653,68
+1664,Did You Hear About the Morgans?,2009,4.8,27,33201,48
+1665,Soul Kitchen,2009,7.3,76,32957,73
+1666,Inception,2010,8.8,74,1749660,88
+1667,Shutter Island,2010,8.1,63,955833,81
+1668,Toy Story 3,2010,8.3,92,650191,83
+1669,Black Swan,2010,8.0,79,624976,80
+1670,Iron Man 2,2010,7.0,57,615390,70
+1671,How to Train Your Dragon,2010,8.1,74,579767,81
+1672,The King's Speech,2010,8.0,88,572689,80
+1673,The Social Network,2010,7.7,95,550131,77
+1674,Kick-Ass,2010,7.6,66,483945,76
+1675,Despicable Me,2010,7.7,72,445318,77
+1676,Harry Potter and the Deathly Hallows: Part 1,2010,7.7,65,399056,77
+1677,Tangled,2010,7.8,71,347530,78
+1678,Alice in Wonderland,2010,6.5,53,346332,65
+1679,Scott Pilgrim vs. the World,2010,7.5,69,323370,75
+1680,Easy A,2010,7.1,72,318111,71
+1681,127 Hours,2010,7.6,82,313599,76
+1682,The Town,2010,7.6,74,313029,76
+1683,The Fighter,2010,7.8,79,307096,78
+1684,The Expendables,2010,6.5,45,299635,65
+1685,Due Date,2010,6.6,51,296647,66
+1686,TRON: Legacy,2010,6.8,49,288790,68
+1687,True Grit,2010,7.6,80,272468,76
+1688,Salt,2010,6.4,65,270497,64
+1689,RED,2010,7.1,60,264670,71
+1690,The Book of Eli,2010,6.9,53,260074,69
+1691,Clash of the Titans,2010,5.8,39,250002,58
+1692,Prince of Persia: The Sands of Time,2010,6.6,50,247362,66
+1693,Insidious,2010,6.8,52,242324,68
+1694,Robin Hood,2010,6.7,53,233329,67
+1695,The A-Team,2010,6.8,47,230174,68
+1696,The Other Guys,2010,6.7,64,214105,67
+1697,The Twilight Saga: Eclipse,2010,5.0,58,204345,50
+1698,Grown Ups,2010,6.0,30,203619,60
+1699,The Tourist,2010,6.0,37,199877,60
+1700,Megamind,2010,7.3,63,199275,73
+1701,Predators,2010,6.4,51,192652,64
+1702,Machete,2010,6.6,60,178464,66
+1703,Unstoppable,2010,6.8,69,167652,68
+1704,Knight and Day,2010,6.3,46,165211,63
+1705,Blue Valentine,2010,7.4,81,164087,74
+1706,The Next Three Days,2010,7.4,52,162372,74
+1707,Love & Other Drugs,2010,6.7,55,162048,67
+1708,Percy Jackson & the Olympians: The Lightning Thief,2010,5.9,47,160002,59
+1709,Shrek Forever After,2010,6.3,58,159518,63
+1710,Get Him to the Greek,2010,6.4,65,158320,64
+1711,Hot Tub Time Machine,2010,6.4,63,150289,64
+1712,Resident Evil: Afterlife,2010,5.9,37,149154,59
+1713,Tucker and Dale vs Evil,2010,7.6,65,148605,76
+1714,The Ghost Writer,2010,7.2,77,145180,72
+1715,Date Night,2010,6.3,56,140782,63
+1716,The Karate Kid,2010,6.2,61,140774,62
+1717,The Sorcerer's Apprentice,2010,6.1,46,139677,61
+1718,Buried,2010,7.0,65,134879,70
+1719,The Last Airbender,2010,4.1,20,133384,41
+1720,Never Let Me Go,2010,7.2,69,126332,72
+1721,Remember Me,2010,7.1,40,126267,71
+1722,Winter's Bone,2010,7.2,90,123766,72
+1723,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,6.3,53,123206,63
+1724,Dear John,2010,6.3,43,123147,63
+1725,It's Kind of a Funny Story,2010,7.1,63,122084,71
+1726,Green Zone,2010,6.8,63,119911,68
+1727,The Kids Are All Right,2010,7.0,86,118737,70
+1728,Devil,2010,6.2,44,118604,62
+1729,Incendies,2010,8.2,80,114862,82
+1730,She's Out of My League,2010,6.4,46,112517,64
+1731,Life as We Know It,2010,6.6,39,108981,66
+1732,The Bounty Hunter,2010,5.5,22,108794,55
+1733,From Paris with Love,2010,6.5,42,105095,65
+1734,Valentine's Day,2010,5.7,34,104110,57
+1735,Let Me In,2010,7.1,79,103965,71
+1736,The Crazies,2010,6.5,55,102075,65
+1737,The Way Back,2010,7.3,66,99188,73
+1738,Little Fockers,2010,5.5,27,96106,55
+1739,The Wolfman,2010,5.8,43,95785,58
+1740,Repo Men,2010,6.3,32,94120,63
+1741,Wall Street: Money Never Sleeps,2010,6.2,59,91484,62
+1742,Paranormal Activity 2,2010,5.7,53,90759,57
+1743,Legion,2010,5.2,32,89471,52
+1744,I Saw the Devil,2010,7.8,67,88990,78
+1745,Faster,2010,6.5,44,88965,65
+1746,Dinner for Schmucks,2010,5.9,56,88671,59
+1747,The Switch,2010,6.1,52,87890,61
+1748,My Name Is Khan,2010,8.0,50,87111,80
+1749,Hereafter,2010,6.5,56,85834,65
+1750,The American,2010,6.3,61,85387,63
+1751,Letters to Juliet,2010,6.6,50,83780,66
+1752,Ip Man 2,2010,7.6,67,83361,76
+1753,A Nightmare on Elm Street,2010,5.2,35,83136,52
+1754,Monsters,2010,6.4,63,82902,64
+1755,Edge of Darkness,2010,6.6,55,82781,66
+1756,Leap Year,2010,6.5,33,82467,65
+1757,Skyline,2010,4.4,26,82369,44
+1758,Beginners,2010,7.2,81,82100,72
+1759,The Losers,2010,6.4,44,81155,64
+1760,Saw 3D: The Final Chapter,2010,5.6,24,80533,56
+1761,Cop Out,2010,5.6,31,80133,56
+1762,Killers,2010,5.4,21,79971,54
+1763,Piranha 3D,2010,5.5,53,79563,55
+1764,Biutiful,2010,7.5,58,78105,75
+1765,Submarine,2010,7.3,76,77547,73
+1766,Eat Pray Love,2010,5.7,50,74087,57
+1767,Elite Squad: The Enemy Within,2010,8.1,71,73320,81
+1768,Flipped,2010,7.7,45,72314,77
+1769,Legend of the Guardians: The Owls of Ga'Hoole,2010,7.0,53,72093,70
+1770,Centurion,2010,6.4,62,71922,64
+1771,The Last Song,2010,5.9,33,70882,59
+1772,Super,2010,6.8,50,68928,68
+1773,Burlesque,2010,6.4,47,68545,64
+1774,Sex and the City 2,2010,4.4,27,66779,44
+1775,I Spit on Your Grave,2010,6.3,27,65585,63
+1776,Morning Glory,2010,6.5,57,65100,65
+1777,The Secret World of Arrietty,2010,7.6,80,64966,76
+1778,Four Lions,2010,7.3,68,64248,73
+1779,Inside Job,2010,8.3,88,63698,83
+1780,Trollhunter,2010,7.0,61,61658,70
+1781,Frozen,2010,6.2,43,60375,62
+1782,The Debt,2010,6.9,65,59744,69
+1783,Gulliver's Travels,2010,4.9,33,59099,49
+1784,Exit Through the Gift Shop,2010,8.0,85,57165,80
+1785,13 Assassins,2010,7.6,84,56882,76
+1786,When in Rome,2010,5.6,25,55975,56
+1787,Going the Distance,2010,6.3,51,53677,63
+1788,Charlie St. Cloud,2010,6.5,37,53405,65
+1789,Senna,2010,8.6,79,52419,86
+1790,Jackass 3D,2010,7.0,56,52120,70
+1791,Step Up 3D,2010,6.2,45,52024,62
+1792,Takers,2010,6.2,45,51766,62
+1793,Animal Kingdom,2010,7.3,83,50460,73
+1794,Jonah Hex,2010,4.7,33,50436,47
+1795,All Good Things,2010,6.3,57,47977,63
+1796,Hesher,2010,7.0,45,47583,70
+1797,You Again,2010,5.8,28,45328,58
+1798,The Last Exorcism,2010,5.6,63,44921,56
+1799,Everything Must Go,2010,6.4,65,44883,64
+1800,The Back-up Plan,2010,5.3,34,44859,53
+1801,Rabbit Hole,2010,7.0,76,44467,70
+1802,London Boulevard,2010,6.2,52,43810,62
+1803,Don't Be Afraid of the Dark,2010,5.6,56,43728,56
+1804,Last Night,2010,6.6,50,43714,66
+1805,The Runaways,2010,6.6,65,42961,66
+1806,Vampires Suck,2010,3.4,18,42707,34
+1807,Fair Game,2010,6.8,69,42502,68
+1808,You Will Meet a Tall Dark Stranger,2010,6.3,51,40749,63
+1809,Death at a Funeral,2010,5.7,51,40334,57
+1810,The Company Men,2010,6.8,69,40117,68
+1811,Black Death,2010,6.4,71,40013,64
+1812,How Do You Know,2010,5.4,46,39468,54
+1813,Somewhere,2010,6.3,67,39371,63
+1814,MacGruber,2010,5.5,43,38887,55
+1815,Conviction,2010,7.2,61,38829,72
+1816,Trust,2010,6.9,60,38429,69
+1817,Catfish,2010,7.1,65,38080,71
+1818,Stake Land,2010,6.5,66,37993,65
+1819,Stone,2010,5.4,58,37978,54
+1820,13,2010,6.1,29,37630,61
+1821,The Ward,2010,5.6,38,37206,56
+1822,Diary of a Wimpy Kid,2010,6.2,56,37149,62
+1823,Tooth Fairy,2010,5.0,36,36017,50
+1824,In a Better World,2010,7.6,65,35798,76
+1825,The Spy Next Door,2010,5.4,27,35285,54
+1826,Greenberg,2010,6.1,76,33056,61
+1827,Wild Target,2010,6.8,41,32971,68
+1828,Cyrus,2010,6.3,74,31994,63
+1829,The Illusionist,2010,7.5,82,31057,75
+1830,The Killer Inside Me,2010,6.1,53,31037,61
+1831,Rubber,2010,5.8,59,30066,58
+1832,6 Souls,2010,6.1,28,29416,61
+1833,"Tomorrow, When the War Began",2010,6.2,54,28826,62
+1834,The Whistleblower,2010,7.2,59,28813,72
+1835,Happythankyoumoreplease,2010,6.8,45,28012,68
+1836,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,87,658952,81
+1837,Thor,2011,7.0,57,638206,70
+1838,The Intouchables,2011,8.5,57,635584,85
+1839,Captain America: The First Avenger,2011,6.9,66,617252,69
+1840,X-Men: First Class,2011,7.7,65,587596,77
+1841,Drive,2011,7.8,78,502153,78
+1842,Limitless,2011,7.4,59,475154,74
+1843,Rise of the Planet of the Apes,2011,7.6,68,460981,76
+1844,Source Code,2011,7.5,74,437041,75
+1845,Pirates of the Caribbean: On Stranger Tides,2011,6.6,45,431317,66
+1846,Crazy Stupid Love,2011,7.4,68,424098,74
+1847,The Hangover Part II,2011,6.5,44,419087,65
+1848,Mission: Impossible - Ghost Protocol,2011,7.4,73,412568,74
+1849,Warrior,2011,8.2,71,389903,82
+1850,Horrible Bosses,2011,6.9,57,389128,69
+1851,Sherlock Holmes: A Game of Shadows,2011,7.5,48,381615,75
+1852,The Help,2011,8.1,62,377739,81
+1853,The Girl with the Dragon Tattoo,2011,7.8,71,374074,78
+1854,Transformers: Dark of the Moon,2011,6.3,42,357215,63
+1855,Midnight in Paris,2011,7.7,81,345023,77
+1856,In Time,2011,6.7,53,337353,67
+1857,Fast Five,2011,7.3,66,320106,73
+1858,Moneyball,2011,7.6,87,316096,76
+1859,Super 8,2011,7.0,72,313613,70
+1860,Friends with Benefits,2011,6.6,63,306955,66
+1861,50/50,2011,7.7,72,294709,77
+1862,Real Steel,2011,7.1,56,278082,71
+1863,Hugo,2011,7.5,83,276464,75
+1864,Green Lantern,2011,5.5,39,245947,55
+1865,Bridesmaids,2011,6.8,75,242872,68
+1866,Unknown,2011,6.9,56,229539,69
+1867,The Grey,2011,6.8,64,223314,68
+1868,The Adjustment Bureau,2011,7.1,60,221454,71
+1869,The Descendants,2011,7.3,84,219729,73
+1870,Kung Fu Panda 2,2011,7.2,67,216530,72
+1871,Paul,2011,7.0,57,214314,70
+1872,Sucker Punch,2011,6.1,33,214077,61
+1873,I Am Number Four,2011,6.1,36,212881,61
+1874,The Artist,2011,7.9,89,211869,79
+1875,Rango,2011,7.2,75,208332,72
+1876,The Ides of March,2011,7.1,67,203976,71
+1877,The Twilight Saga: Breaking Dawn - Part 1,2011,4.9,45,201332,49
+1878,The Adventures of Tintin,2011,7.3,68,196803,73
+1879,Contagion,2011,6.6,70,196505,66
+1880,Just Go with It,2011,6.4,33,194411,64
+1881,The Lincoln Lawyer,2011,7.3,63,191336,73
+1882,No Strings Attached,2011,6.2,50,191076,62
+1883,Cowboys & Aliens,2011,6.0,50,190992,60
+1884,A Separation,2011,8.3,95,186197,83
+1885,Rio,2011,6.9,63,185302,69
+1886,Bad Teacher,2011,5.6,47,176424,56
+1887,Hanna,2011,6.8,65,173317,68
+1888,Tinker Tailor Soldier Spy,2011,7.1,85,169485,71
+1889,The Raid: Redemption,2011,7.6,73,168984,76
+1890,Shame,2011,7.2,72,166420,72
+1891,Battle Los Angeles,2011,5.8,37,164486,58
+1892,The Tree of Life,2011,6.8,85,152378,68
+1893,The Change-Up,2011,6.3,39,150414,63
+1894,Immortals,2011,6.0,46,149826,60
+1895,Melancholia,2011,7.1,80,147538,71
+1896,The Green Hornet,2011,5.8,39,146024,58
+1897,The Mechanic,2011,6.6,49,137266,66
+1898,War Horse,2011,7.2,72,131979,72
+1899,Puss in Boots,2011,6.6,65,128719,66
+1900,Cars 2,2011,6.2,57,128583,62
+1901,We Bought a Zoo,2011,7.1,58,123506,71
+1902,One Day,2011,7.0,48,123307,70
+1903,Tower Heist,2011,6.2,59,121785,62
+1904,The Skin I Live In,2011,7.6,70,118744,76
+1905,We Need to Talk About Kevin,2011,7.5,68,117705,75
+1906,Scream 4,2011,6.2,52,115125,62
+1907,Killer Elite,2011,6.5,44,114827,65
+1908,J. Edgar,2011,6.6,59,113294,66
+1909,Hall Pass,2011,5.9,45,111522,59
+1910,Carnage,2011,7.2,61,108255,72
+1911,The Thing,2011,6.2,49,107802,62
+1912,Priest,2011,5.7,41,105472,57
+1913,Margin Call,2011,7.1,76,103822,71
+1914,Water for Elephants,2011,6.9,52,103641,69
+1915,Johnny English Reborn,2011,6.3,46,102019,63
+1916,Red Riding Hood,2011,5.5,29,99979,55
+1917,Ghost Rider: Spirit of Vengeance,2011,4.3,34,99944,43
+1918,The Three Musketeers,2011,5.8,35,96493,58
+1919,Final Destination 5,2011,5.9,50,94640,59
+1920,The Iron Lady,2011,6.4,54,93422,64
+1921,The Rum Diary,2011,6.2,56,93079,62
+1922,Fright Night,2011,6.4,64,92461,64
+1923,Your Highness,2011,5.5,31,91449,55
+1924,Attack the Block,2011,6.6,75,91163,66
+1925,Extremely Loud & Incredibly Close,2011,6.9,46,91118,69
+1926,A Dangerous Method,2011,6.4,76,90631,64
+1927,Headhunters,2011,7.6,72,89042,76
+1928,Conan the Barbarian,2011,5.2,36,88656,52
+1929,Drive Angry,2011,5.4,44,88222,54
+1930,30 Minutes or Less,2011,6.1,49,85325,61
+1931,Colombiana,2011,6.4,45,84958,64
+1932,Paranormal Activity 3,2011,5.8,59,83754,58
+1933,Season of the Witch,2011,5.4,28,83512,54
+1934,The Best Exotic Marigold Hotel,2011,7.3,62,83395,73
+1935,The Rite,2011,6.0,38,83371,60
+1936,Another Earth,2011,7.0,66,83269,70
+1937,The Muppets,2011,7.1,75,81012,71
+1938,Take Shelter,2011,7.4,85,80520,74
+1939,Our Idiot Brother,2011,6.4,60,79337,64
+1940,Goon,2011,6.8,64,78324,68
+1941,My Week with Marilyn,2011,7.0,65,77757,70
+1942,Haywire,2011,5.8,67,77426,58
+1943,Mr. Popper's Penguins,2011,6.0,53,77284,60
+1944,You're Next,2011,6.5,66,76044,65
+1945,The Smurfs,2011,5.5,30,75230,55
+1946,Justin Bieber: Never Say Never,2011,1.6,52,74908,16
+1947,New Year's Eve,2011,5.7,22,74156,57
+1948,The Guard,2011,7.3,78,73055,73
+1949,Jane Eyre,2011,7.4,76,72267,74
+1950,Young Adult,2011,6.3,71,71628,63
+1951,The Inbetweeners Movie,2011,6.8,44,70979,68
+1952,Beastly,2011,5.6,40,70807,56
+1953,Abduction,2011,5.1,25,70656,51
+1954,Jack and Jill,2011,3.3,23,68591,33
+1955,Detachment,2011,7.7,52,66998,77
+1956,Killer Joe,2011,6.7,62,66141,67
+1957,What's Your Number?,2011,6.1,35,66114,61
+1958,God Bless America,2011,7.2,56,64903,72
+1959,The Sitter,2011,5.7,39,64566,57
+1960,A Very Harold & Kumar 3D Christmas,2011,6.3,61,60539,63
+1961,The Eagle,2011,6.2,55,59744,62
+1962,"Jeff, Who Lives at Home",2011,6.5,60,59276,65
+1963,Machine Gun Preacher,2011,6.8,43,58721,68
+1964,The Awakening,2011,6.5,53,58282,65
+1965,Red State,2011,6.2,50,58241,62
+1966,Dream House,2011,6.0,35,57644,60
+1967,The Devil's Double,2011,7.1,52,57456,71
+1968,Salmon Fishing in the Yemen,2011,6.8,58,57411,68
+1969,Larry Crowne,2011,6.1,41,56544,61
+1970,Like Crazy,2011,6.7,68,54333,67
+1971,The Darkest Hour,2011,4.9,18,53997,49
+1972,Something Borrowed,2011,5.9,36,52984,59
+1973,Bernie,2011,6.8,75,52419,68
+1974,The Art of Getting By,2011,6.6,36,52234,66
+1975,Win Win,2011,7.2,75,51091,72
+1976,Zookeeper,2011,5.2,30,50638,52
+1977,Sanctum,2011,5.9,42,50451,59
+1978,Apollo 18,2011,5.2,24,50347,52
+1979,Perfect Sense,2011,7.1,55,49427,71
+1980,Arthur,2011,5.7,36,48159,57
+1981,Gnomeo & Juliet,2011,6.0,53,48110,60
+1982,Take Me Home Tonight,2011,6.3,42,47357,63
+1983,The Dilemma,2011,5.3,46,47273,53
+1984,Grave Encounters,2011,6.1,33,46540,61
+1985,Don 2,2011,7.1,49,44871,71
+1986,Martha Marcy May Marlene,2011,6.9,75,44782,69
+1987,The Flowers of War,2011,7.6,46,44208,76
+1988,The Beaver,2011,6.7,60,44174,67
+1989,Arthur Christmas,2011,7.1,69,42679,71
+1990,Seeking Justice,2011,6.2,38,42048,62
+1991,Footloose,2011,5.9,58,41961,59
+1992,Hobo with a Shotgun,2011,6.1,55,40772,61
+1993,Soul Surfer,2011,7.1,53,40354,71
+1994,Kill the Irishman,2011,7.1,50,40162,71
+1995,Friends with Kids,2011,6.2,55,38744,62
+1996,The Big Year,2011,6.2,53,38622,62
+1997,Trespass,2011,5.3,37,38403,53
+1998,Monte Carlo,2011,5.8,43,37499,58
+1999,Ironclad,2011,6.2,42,37412,62
+2000,Anonymous,2011,6.9,50,37157,69
+2001,Happy Feet Two,2011,5.9,50,36965,59
+2002,Ra.One,2011,4.8,60,34571,48
+2003,Cedar Rapids,2011,6.3,70,34384,63
+2004,The Hunter,2011,6.8,63,34055,68
+2005,The Divide,2011,5.8,28,32950,58
+2006,The Dark Knight Rises,2012,8.4,78,1331712,84
+2007,Django Unchained,2012,8.4,81,1153086,84
+2008,The Avengers,2012,8.1,69,1126222,81
+2009,The Hunger Games,2012,7.2,68,775256,72
+2010,The Hobbit: An Unexpected Journey,2012,7.9,58,702240,79
+2011,Silver Linings Playbook,2012,7.7,81,601874,77
+2012,Skyfall,2012,7.8,81,576956,78
+2013,Prometheus,2012,7.0,64,524923,70
+2014,Ted,2012,6.9,62,523232,69
+2015,Argo,2012,7.7,86,518104,77
+2016,Life of Pi,2012,7.9,79,512616,79
+2017,The Amazing Spider-Man,2012,7.0,66,507865,70
+2018,Looper,2012,7.4,84,484267,74
+2019,21 Jump Street,2012,7.2,69,462757,72
+2020,The Perks of Being a Wallflower,2012,8.0,67,409165,80
+2021,The Cabin in the Woods,2012,7.0,72,323475,70
+2022,Brave,2012,7.1,69,321621,71
+2023,Cloud Atlas,2012,7.5,55,318101,75
+2024,Wreck-It Ralph,2012,7.7,72,317657,77
+2025,Men in Black 3,2012,6.8,58,296588,68
+2026,Flight,2012,7.3,76,293241,73
+2027,Moonrise Kingdom,2012,7.8,84,280640,78
+2028,Les Misérables,2012,7.6,63,276161,76
+2029,Jack Reacher,2012,7.0,50,273616,70
+2030,The Expendables 2,2012,6.6,51,270769,66
+2031,Taken 2,2012,6.3,45,265398,63
+2032,The Bourne Legacy,2012,6.7,61,261148,67
+2033,Snow White and the Huntsman,2012,6.1,57,252550,61
+2034,Pitch Perfect,2012,7.2,66,246399,72
+2035,Zero Dark Thirty,2012,7.4,95,242536,74
+2036,The Dictator,2012,6.4,58,242088,64
+2037,John Carter,2012,6.6,51,232833,66
+2038,Dredd,2012,7.1,60,228366,71
+2039,The Hunt,2012,8.3,77,226779,83
+2040,Chronicle,2012,7.1,69,224407,71
+2041,Total Recall,2012,6.3,43,222858,63
+2042,Lincoln,2012,7.4,86,222350,74
+2043,Dark Shadows,2012,6.2,55,222280,62
+2044,Battleship,2012,5.8,41,221136,58
+2045,The Place Beyond the Pines,2012,7.3,68,218448,73
+2046,Seven Psychopaths,2012,7.2,66,215370,72
+2047,Lawless,2012,7.3,58,207972,73
+2048,The Twilight Saga: Breaking Dawn - Part 2,2012,5.5,52,206922,55
+2049,End of Watch,2012,7.6,68,205648,76
+2050,Hotel Transylvania,2012,7.1,47,194925,71
+2051,Sinister,2012,6.8,53,189875,68
+2052,American Reunion,2012,6.7,49,187608,67
+2053,Safe House,2012,6.8,52,186036,68
+2054,Project X,2012,6.7,48,173347,67
+2055,The Impossible,2012,7.6,73,170693,76
+2056,Wrath of the Titans,2012,5.7,37,167880,57
+2057,The Vow,2012,6.8,43,167875,68
+2058,Ice Age: Continental Drift,2012,6.6,49,167333,66
+2059,This Means War,2012,6.3,31,163287,63
+2060,The Woman in Black,2012,6.4,62,160726,64
+2061,Mud,2012,7.4,76,152443,74
+2062,Rise of the Guardians,2012,7.3,57,140103,73
+2063,Abraham Lincoln: Vampire Hunter,2012,5.9,42,139597,59
+2064,Madagascar 3: Europe's Most Wanted,2012,6.9,60,138731,69
+2065,Man on a Ledge,2012,6.6,40,135112,66
+2066,Underworld Awakening,2012,6.4,39,134753,64
+2067,The Master,2012,7.1,86,125075,71
+2068,Spring Breakers,2012,5.3,63,122231,53
+2069,Killing Them Softly,2012,6.2,64,121712,62
+2070,Resident Evil: Retribution,2012,5.4,39,121694,54
+2071,Magic Mike,2012,6.1,72,120582,61
+2072,The Campaign,2012,6.1,50,116139,61
+2073,This Is 40,2012,6.2,59,115407,62
+2074,The Watch,2012,5.7,36,113294,57
+2075,Savages,2012,6.5,59,112874,65
+2076,Safety Not Guaranteed,2012,7.0,72,109846,70
+2077,Contraband,2012,6.5,51,109076,65
+2078,Premium Rush,2012,6.5,66,103531,65
+2079,Seeking a Friend for the End of the World,2012,6.7,59,99551,67
+2080,Get the Gringo,2012,7.0,60,95946,70
+2081,Safe,2012,6.5,55,93522,65
+2082,The Lucky One,2012,6.5,39,90672,65
+2083,Ruby Sparks,2012,7.2,67,88962,72
+2084,Lockout,2012,6.1,48,88052,61
+2085,The Lorax,2012,6.4,46,87235,64
+2086,The Five-Year Engagement,2012,6.2,62,85904,62
+2087,Frankenweenie,2012,7.0,74,85690,70
+2088,ParaNorman,2012,7.0,72,83704,70
+2089,Amour,2012,7.9,94,81946,79
+2090,Anna Karenina,2012,6.6,63,81750,66
+2091,Here Comes the Boom,2012,6.4,40,80309,64
+2092,Journey 2: The Mysterious Island,2012,5.8,41,79931,58
+2093,That's My Boy,2012,5.6,31,79847,56
+2094,The Raven,2012,6.4,44,78381,64
+2095,To Rome with Love,2012,6.3,54,77484,63
+2096,Mirror Mirror,2012,5.6,46,77467,56
+2097,Stuck in Love,2012,7.3,49,76858,73
+2098,Beasts of the Southern Wild,2012,7.3,86,76065,73
+2099,Disconnect,2012,7.5,64,68601,75
+2100,Rock of Ages,2012,5.9,47,68252,59
+2101,The Words,2012,7.1,37,68175,71
+2102,Red Dawn,2012,5.4,31,68059,54
+2103,Wanderlust,2012,5.6,53,67661,56
+2104,Hitchcock,2012,6.8,55,66668,68
+2105,Upside Down,2012,6.4,45,64820,64
+2106,House at the End of the Street,2012,5.6,31,64706,56
+2107,Gangs of Wasseypur,2012,8.2,89,64684,82
+2108,What to Expect When You're Expecting,2012,5.7,41,64017,57
+2109,The Iceman,2012,6.9,60,63468,69
+2110,Act of Valor,2012,6.5,40,62701,65
+2111,The First Time,2012,6.9,55,60580,69
+2112,Robot & Frank,2012,7.1,67,57855,71
+2113,The Man with the Iron Fists,2012,5.4,51,57362,54
+2114,Rust and Bone,2012,7.5,73,57014,75
+2115,Frances Ha,2012,7.4,82,56962,74
+2116,Paranormal Activity 4,2012,4.6,40,56799,46
+2117,Searching for Sugar Man,2012,8.2,79,56547,82
+2118,Silent Hill: Revelation,2012,5.0,16,55367,50
+2119,Trouble with the Curve,2012,6.8,58,54206,68
+2120,Red Lights,2012,6.2,36,53927,62
+2121,The Possession,2012,5.9,45,52371,59
+2122,V/H/S,2012,5.8,55,51205,58
+2123,Step Up Revolution,2012,6.5,43,50143,65
+2124,Stand Up Guys,2012,6.5,41,49488,65
+2125,Arbitrage,2012,6.6,73,45829,66
+2126,Bullet to the Head,2012,5.7,48,43618,57
+2127,Bachelorette,2012,5.3,53,41928,53
+2128,The Odd Life of Timothy Green,2012,6.6,47,41683,66
+2129,The Imposter,2012,7.5,77,40949,75
+2130,Cosmopolis,2012,5.0,58,40918,50
+2131,The Collection,2012,6.1,38,40874,61
+2132,Stolen,2012,5.5,43,40474,55
+2133,Kon-Tiki,2012,7.2,62,40248,72
+2134,Think Like a Man,2012,6.6,51,39856,66
+2135,A Royal Affair,2012,7.6,73,39655,76
+2136,The Sessions,2012,7.2,79,39182,72
+2137,People Like Us,2012,7.1,49,38669,71
+2138,Gone,2012,5.9,36,38344,59
+2139,Hope Springs,2012,6.3,65,37840,63
+2140,One for the Money,2012,5.3,22,37622,53
+2141,On the Road,2012,6.1,56,37071,61
+2142,Byzantium,2012,6.5,66,36819,65
+2143,Piranha 3DD,2012,3.7,24,35725,37
+2144,Deadfall,2012,6.3,52,35684,63
+2145,Holy Motors,2012,7.1,84,35392,71
+2146,The Tall Man,2012,5.9,52,35194,59
+2147,A Thousand Words,2012,5.9,26,35053,59
+2148,The Broken Circle Breakdown,2012,7.8,70,35036,78
+2149,Talaash,2012,7.3,65,34621,73
+2150,Promised Land,2012,6.6,55,33729,66
+2151,John Dies at the End,2012,6.4,53,33610,64
+2152,Liberal Arts,2012,6.7,55,33290,67
+2153,The Guilt Trip,2012,5.8,50,33099,58
+2154,The Paperboy,2012,5.8,45,32941,58
+2155,The Devil Inside,2012,4.2,18,32829,42
+2156,The Cold Light of Day,2012,4.9,22,32256,49
+2157,Hit and Run,2012,6.1,50,31836,61
+2158,Maniac,2012,6.1,47,31342,61
+2159,Red Tails,2012,5.9,46,31121,59
+2160,Would You Rather,2012,5.7,20,30701,57
+2161,Alex Cross,2012,5.1,30,30431,51
+2162,The Act of Killing,2012,8.2,89,29706,82
+2163,[REC] 3: Genesis,2012,5.0,45,29655,50
+2164,The Company You Keep,2012,6.4,57,28972,64
+2165,Wolf Children,2012,8.2,71,28572,82
+2166,Chasing Mavericks,2012,7.2,45,28330,72
+2167,Compliance,2012,6.4,68,27887,64
+2168,The Three Stooges,2012,5.1,56,27766,51
+2169,Celeste & Jesse Forever,2012,6.6,59,26975,66
+2170,Playing for Keeps,2012,5.7,27,26779,57
+2171,The Wolf of Wall Street,2013,8.2,75,976445,82
+2172,Gravity,2013,7.7,96,678033,77
+2173,Iron Man 3,2013,7.2,62,650703,72
+2174,Man of Steel,2013,7.1,55,623776,71
+2175,The Hunger Games: Catching Fire,2013,7.5,76,558646,75
+2176,12 Years a Slave,2013,8.1,96,550148,81
+2177,The Hobbit: The Desolation of Smaug,2013,7.9,66,548507,79
+2178,World War Z,2013,7.0,63,533904,70
+2179,Now You See Me,2013,7.3,50,532590,73
+2180,Thor: The Dark World,2013,7.0,54,502874,70
+2181,Prisoners,2013,8.1,74,498458,81
+2182,Frozen,2013,7.5,74,493476,75
+2183,Her,2013,8.0,90,440823,80
+2184,Oblivion,2013,7.0,54,438862,70
+2185,Star Trek: Into Darkness,2013,7.7,72,437339,77
+2186,Pacific Rim,2013,6.9,65,432603,69
+2187,The Great Gatsby,2013,7.3,55,416789,73
+2188,American Hustle,2013,7.3,90,404733,73
+2189,Dallas Buyers Club,2013,8.0,84,386646,80
+2190,The Wolverine,2013,6.7,61,385074,67
+2191,Elysium,2013,6.6,61,383771,66
+2192,Rush,2013,8.1,75,377624,81
+2193,Captain Phillips,2013,7.8,83,374156,78
+2194,The Conjuring,2013,7.5,68,371501,75
+2195,We're the Millers,2013,7.0,44,359628,70
+2196,This Is the End,2013,6.6,67,349913,66
+2197,Fast & Furious 6,2013,7.1,61,337624,71
+2198,Despicable Me 2,2013,7.4,62,330661,74
+2199,Monsters University,2013,7.3,65,278044,73
+2200,The Secret Life of Walter Mitty,2013,7.3,54,267722,73
+2201,The Hangover Part III,2013,5.8,30,259333,58
+2202,About Time,2013,7.8,55,247130,78
+2203,Lone Survivor,2013,7.5,60,237930,75
+2204,Kick-Ass 2,2013,6.6,41,230391,66
+2205,Olympus Has Fallen,2013,6.5,41,228535,65
+2206,Snowpiercer,2013,7.0,84,224719,70
+2207,The World's End,2013,7.0,81,222803,70
+2208,Don Jon,2013,6.6,66,211151,66
+2209,Ender's Game,2013,6.6,51,205755,66
+2210,Escape Plan,2013,6.7,49,204563,67
+2211,Warm Bodies,2013,6.9,60,204119,69
+2212,The Lone Ranger,2013,6.4,37,203124,64
+2213,Gangster Squad,2013,6.7,40,190994,67
+2214,Oz the Great and Powerful,2013,6.3,44,188773,63
+2215,White House Down,2013,6.4,52,185649,64
+2216,A Good Day to Die Hard,2013,5.3,28,183085,53
+2217,Pain & Gain,2013,6.4,45,181116,64
+2218,Hansel & Gretel: Witch Hunters,2013,6.1,23,177815,61
+2219,After Earth,2013,4.8,33,176844,48
+2220,2 Guns,2013,6.7,55,176467,67
+2221,The Internship,2013,6.3,42,175434,63
+2222,Blue Jasmine,2013,7.3,78,174109,73
+2223,The Purge,2013,5.7,41,174029,57
+2224,The Croods,2013,7.2,55,171313,72
+2225,Side Effects,2013,7.1,75,164353,71
+2226,G.I. Joe: Retaliation,2013,5.8,41,160562,58
+2227,Mama,2013,6.2,57,154362,62
+2228,Anchorman 2: The Legend Continues,2013,6.3,61,150174,63
+2229,The Heat,2013,6.6,60,149251,66
+2230,RED 2,2013,6.6,47,143715,66
+2231,Evil Dead,2013,6.5,57,142242,65
+2232,Riddick,2013,6.4,49,140706,64
+2233,Insidious: Chapter 2,2013,6.6,40,134221,66
+2234,Enemy,2013,6.9,61,134078,69
+2235,Saving Mr. Banks,2013,7.5,65,134073,75
+2236,47 Ronin,2013,6.3,28,131497,63
+2237,The Way Way Back,2013,7.4,68,129548,74
+2238,The Spectacular Now,2013,7.1,82,128404,71
+2239,Begin Again,2013,7.4,62,124917,74
+2240,The Last Stand,2013,6.4,54,124159,64
+2241,Grown Ups 2,2013,5.4,19,123899,54
+2242,Carrie,2013,5.9,53,121527,59
+2243,Jack the Giant Slayer,2013,6.3,51,119249,63
+2244,The Mortal Instruments: City of Bones,2013,5.9,33,118765,59
+2245,Last Vegas,2013,6.6,48,118580,66
+2246,Inside Llewyn Davis,2013,7.5,93,117963,75
+2247,Blue Is the Warmest Color,2013,7.8,88,117878,78
+2248,Before Midnight,2013,7.9,94,117302,79
+2249,The Book Thief,2013,7.6,53,115363,76
+2250,Locke,2013,7.1,81,114354,71
+2251,Identity Thief,2013,5.7,35,110600,57
+2252,Under the Skin,2013,6.3,78,107396,63
+2253,R.I.P.D.,2013,5.6,25,105369,56
+2254,The Host,2013,5.9,35,102969,59
+2255,Trance,2013,6.9,61,102642,69
+2256,Nebraska,2013,7.7,86,102618,77
+2257,Parker,2013,6.2,42,102226,62
+2258,Oculus,2013,6.5,61,102192,65
+2259,Nymphomaniac: Vol. I,2013,7.0,64,101264,70
+2260,The Call,2013,6.7,51,100745,67
+2261,Lee Daniels' The Butler,2013,7.2,66,99680,72
+2262,The Family,2013,6.3,42,99620,63
+2263,Percy Jackson: Sea of Monsters,2013,5.8,39,99067,58
+2264,Only God Forgives,2013,5.7,37,97217,57
+2265,Out of the Furnace,2013,6.8,63,95979,68
+2266,Homefront,2013,6.5,40,95379,65
+2267,Stoker,2013,6.8,58,95006,68
+2268,Epic,2013,6.7,52,93360,67
+2269,Safe Haven,2013,6.7,34,92879,67
+2270,The Best Offer,2013,7.8,49,90516,78
+2271,The Counsellor,2013,5.3,48,89798,53
+2272,Filth,2013,7.1,56,89778,71
+2273,Movie 43,2013,4.3,18,89715,43
+2274,Jobs,2013,5.9,44,86616,59
+2275,Philomena,2013,7.6,77,86375,76
+2276,Bad Grandpa,2013,6.5,54,84170,65
+2277,Coherence,2013,7.2,65,82827,72
+2278,Beautiful Creatures,2013,6.2,52,77517,62
+2279,August: Osage County,2013,7.2,58,77226,72
+2280,Only Lovers Left Alive,2013,7.3,79,77125,73
+2281,Cloudy with a Chance of Meatballs 2,2013,6.4,59,76974,64
+2282,The Bling Ring,2013,5.6,66,75878,56
+2283,42,2013,7.5,62,75191,75
+2284,Nymphomaniac: Vol. II,2013,6.7,60,74342,67
+2285,Snitch,2013,6.5,51,73292,65
+2286,Turbo,2013,6.4,58,71486,64
+2287,The Kings of Summer,2013,7.2,61,71279,72
+2288,Broken City,2013,6.2,49,70124,62
+2289,Short Term 12,2013,8.0,82,69352,80
+2290,The Great Beauty,2013,7.8,86,68929,78
+2291,Delivery Man,2013,6.4,44,68622,64
+2292,All Is Lost,2013,6.9,87,68469,69
+2293,Horns,2013,6.5,46,67515,65
+2294,Machete Kills,2013,5.6,41,67513,56
+2295,21 & Over,2013,5.9,34,67063,59
+2296,The Incredible Burt Wonderstone,2013,5.9,44,65948,59
+2297,Fruitvale Station,2013,7.5,85,65713,75
+2298,Dark Skies,2013,6.3,50,64397,63
+2299,What If,2013,6.8,59,62468,68
+2300,Europa Report,2013,6.5,68,61239,65
+2301,Oldboy,2013,5.8,49,60274,58
+2302,Dead Man Down,2013,6.5,39,59980,65
+2303,Redemption,2013,6.2,43,59260,62
+2304,Scary Movie 5,2013,3.5,11,57588,35
+2305,The Wind Rises,2013,7.8,83,57514,78
+2306,Runner Runner,2013,5.6,36,56937,56
+2307,Blue Ruin,2013,7.1,77,55783,71
+2308,Blackfish,2013,8.1,83,54497,81
+2309,Enough Said,2013,7.0,78,54467,70
+2310,Grudge Match,2013,6.4,35,52401,64
+2311,Drinking Buddies,2013,6.1,71,52325,61
+2312,The Frozen Ground,2013,6.4,37,50346,64
+2313,The East,2013,6.8,68,45857,68
+2314,Ida,2013,7.4,91,43332,74
+2315,The Big Wedding,2013,5.6,28,42986,56
+2316,Bad Words,2013,6.7,57,42981,67
+2317,Chennai Express,2013,6.0,45,42821,60
+2318,The Double,2013,6.5,68,42488,65
+2319,Odd Thomas,2013,6.9,45,42123,69
+2320,Joe,2013,6.9,74,41555,69
+2321,The Zero Theorem,2013,6.1,50,40683,61
+2322,The Lunchbox,2013,7.8,76,40486,78
+2323,The Colony,2013,5.3,28,39548,53
+2324,The Past,2013,7.8,85,39536,78
+2325,A Haunted House,2013,5.1,20,39026,51
+2326,Planes,2013,5.7,39,38828,57
+2327,Dhoom 3,2013,5.4,61,38768,54
+2328,Starred Up,2013,7.4,81,38064,74
+2329,Labor Day,2013,6.9,52,37493,69
+2330,Interstellar,2014,8.6,74,1212983,86
+2331,Guardians of the Galaxy,2014,8.1,76,875627,81
+2332,Gone Girl,2014,8.1,79,721107,81
+2333,Captain America: The Winter Soldier,2014,7.8,70,616949,78
+2334,The Grand Budapest Hotel,2014,8.1,88,602190,81
+2335,X-Men: Days of Future Past,2014,8.0,75,595888,80
+2336,The Imitation Game,2014,8.0,73,588419,80
+2337,Whiplash,2014,8.5,88,571067,85
+2338,Edge of Tomorrow,2014,7.9,71,522852,79
+2339,Kingsman: The Secret Service,2014,7.7,60,519395,77
+2340,Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,88,492484,77
+2341,The Hobbit: The Battle of the Five Armies,2014,7.4,59,421237,74
+2342,John Wick,2014,7.3,68,400003,73
+2343,Ex Machina,2014,7.7,78,397895,77
+2344,Divergent,2014,6.7,48,387778,67
+2345,Lucy,2014,6.4,61,386291,64
+2346,American Sniper,2014,7.3,72,384811,73
+2347,Nightcrawler,2014,7.9,76,381070,79
+2348,Dawn of the Planet of the Apes,2014,7.6,79,378267,76
+2349,The Amazing Spider-Man 2,2014,6.6,53,372834,66
+2350,The Maze Runner,2014,6.8,57,372571,68
+2351,Fury,2014,7.6,64,365019,76
+2352,The Hunger Games: Mockingjay - Part 1,2014,6.7,64,363218,67
+2353,Big Hero 6,2014,7.8,74,346945,78
+2354,The Theory of Everything,2014,7.7,72,339645,77
+2355,Godzilla,2014,6.4,62,336618,64
+2356,Boyhood,2014,7.9,100,307386,79
+2357,22 Jump Street,2014,7.0,71,307049,70
+2358,The Fault in Our Stars,2014,7.8,69,300695,78
+2359,Maleficent,2014,7.0,56,292277,70
+2360,The Lego Movie,2014,7.8,83,289809,78
+2361,The Equalizer,2014,7.2,57,280761,72
+2362,The Interview,2014,6.6,52,278109,66
+2363,Transformers: Age of Extinction,2014,5.7,32,275180,57
+2364,How to Train Your Dragon 2,2014,7.8,76,258813,78
+2365,Neighbors,2014,6.3,68,256510,63
+2366,300: Rise of an Empire,2014,6.2,48,254156,62
+2367,Non-Stop,2014,7.0,56,227249,70
+2368,Noah,2014,5.8,68,222338,58
+2369,Predestination,2014,7.5,69,214717,75
+2370,RoboCop,2014,6.2,52,200884,62
+2371,Transcendence,2014,6.3,42,198402,63
+2372,Teenage Mutant Ninja Turtles,2014,5.8,31,188370,58
+2373,It Follows,2014,6.9,83,169233,69
+2374,Chef,2014,7.3,68,167093,73
+2375,Dracula Untold,2014,6.3,40,159670,63
+2376,The Babadook,2014,6.8,86,159131,68
+2377,Taken 3,2014,6.0,26,158383,60
+2378,The Judge,2014,7.4,48,157847,74
+2379,A Million Ways to Die in the West,2014,6.1,44,155456,61
+2380,Need for Speed,2014,6.5,39,151233,65
+2381,The Expendables 3,2014,6.1,35,150209,61
+2382,Exodus: Gods and Kings,2014,6.0,52,146825,60
+2383,Wild Tales,2014,8.1,77,140002,81
+2384,Horrible Bosses 2,2014,6.3,40,138300,63
+2385,Sin City: A Dame to Kill For,2014,6.5,46,134668,65
+2386,Hercules,2014,6.0,47,132107,60
+2387,The Drop,2014,7.1,69,127461,71
+2388,Unbroken,2014,7.2,59,125548,72
+2389,Foxcatcher,2014,7.0,81,122627,70
+2390,The Purge: Anarchy,2014,6.5,50,120452,65
+2391,Into the Woods,2014,6.0,69,119256,60
+2392,Let's Be Cops,2014,6.5,30,118919,65
+2393,The Other Woman,2014,6.0,39,118863,60
+2394,The Monuments Men,2014,6.1,52,114531,61
+2395,Dumb and Dumber To,2014,5.6,36,113756,56
+2396,Annabelle,2014,5.4,37,112809,54
+2397,What We Do in the Shadows,2014,7.6,76,112431,76
+2398,Still Alice,2014,7.5,72,111647,75
+2399,Jack Ryan: Shadow Recruit,2014,6.2,57,110837,62
+2400,Wild,2014,7.1,76,106149,71
+2401,If I Stay,2014,6.8,46,102791,68
+2402,Blended,2014,6.5,31,102312,65
+2403,The Giver,2014,6.5,47,101875,65
+2404,A Walk Among the Tombstones,2014,6.5,57,101258,65
+2405,The Raid 2,2014,8.0,71,99890,80
+2406,I Origins,2014,7.4,57,99574,74
+2407,Pompeii,2014,5.5,39,97334,55
+2408,Sex Tape,2014,5.1,36,96974,51
+2409,"Love, Rosie",2014,7.2,44,96319,72
+2410,Ride Along,2014,6.2,41,90686,62
+2411,That Awkward Moment,2014,6.2,36,89319,62
+2412,St. Vincent,2014,7.3,64,87141,73
+2413,Night at the Museum: Secret of the Tomb,2014,6.2,47,86073,62
+2414,The Guest,2014,6.7,76,79120,67
+2415,3 Days to Kill,2014,6.2,40,78942,62
+2416,Inherent Vice,2014,6.7,81,78842,67
+2417,Paddington,2014,7.2,77,76345,72
+2418,Selma,2014,7.5,89,74765,75
+2419,"I, Frankenstein",2014,5.1,30,73301,51
+2420,Big Eyes,2014,7.0,62,73294,70
+2421,Penguins of Madagascar,2014,6.7,53,69928,67
+2422,Rio 2,2014,6.3,49,68850,63
+2423,Frank,2014,7.0,75,67739,70
+2424,The Hundred-Foot Journey,2014,7.3,55,65959,73
+2425,A Most Wanted Man,2014,6.8,73,65808,68
+2426,Seventh Son,2014,5.5,30,64689,55
+2427,The Water Diviner,2014,7.1,50,64616,71
+2428,This Is Where I Leave You,2014,6.6,44,63173,66
+2429,"As Above, So Below",2014,6.2,38,62496,62
+2430,Deliver Us from Evil,2014,6.2,40,61985,62
+2431,Before I Go to Sleep,2014,6.3,41,61132,63
+2432,Into the Storm,2014,5.8,44,59541,58
+2433,Unfriended,2014,5.6,59,58378,56
+2434,Two Night Stand,2014,6.4,45,57904,64
+2435,The November Man,2014,6.3,38,57596,63
+2436,The Gambler,2014,6.0,55,57518,60
+2437,A Most Violent Year,2014,7.0,79,57293,70
+2438,The Book of Life,2014,7.3,67,57243,73
+2439,Magic in the Moonlight,2014,6.6,54,57028,66
+2440,The Signal,2014,6.1,54,56889,61
+2441,The Best of Me,2014,6.7,29,56165,67
+2442,Mr. Peabody & Sherman,2014,6.8,59,55316,68
+2443,Sabotage,2014,5.7,41,54112,57
+2444,Calvary,2014,7.4,77,50529,74
+2445,Automata,2014,6.1,37,49466,61
+2446,The Legend of Hercules,2014,4.2,22,49348,42
+2447,The Boxtrolls,2014,6.8,61,49057,68
+2448,Vampire Academy,2014,5.5,31,47847,55
+2449,Winter's Tale,2014,6.2,31,47652,62
+2450,Walk of Shame,2014,6.0,25,46827,60
+2451,Draft Day,2014,6.8,54,46664,68
+2452,Citizenfour,2014,8.1,88,46355,81
+2453,The Voices,2014,6.4,58,45845,64
+2454,The Cobbler,2014,5.8,23,45608,58
+2455,Veronica Mars,2014,6.8,62,45550,68
+2456,Pride,2014,7.8,79,44765,78
+2457,The Loft,2014,6.3,24,44732,63
+2458,'71,2014,7.2,83,44298,72
+2459,Stonehearst Asylum,2014,6.8,52,43934,68
+2460,Tammy,2014,4.9,39,42532,49
+2461,Ouija,2014,4.5,38,42203,45
+2462,Leviathan,2014,7.6,92,40993,76
+2463,Before We Go,2014,6.8,31,40821,68
+2464,Song of the Sea,2014,8.1,85,40622,81
+2465,Mommy,2014,8.1,74,40400,81
+2466,Hector and the Search for Happiness,2014,7.0,29,40185,70
+2467,Million Dollar Arm,2014,7.0,56,40057,70
+2468,"Two Days, One Night",2014,7.4,89,39891,74
+2469,While We're Young,2014,6.3,77,39512,63
+2470,Kill the Messenger,2014,7.0,60,39334,70
+2471,The Rover,2014,6.4,64,39207,64
+2472,Tusk,2014,5.3,55,38792,53
+2473,Laggies,2014,6.4,63,37494,64
+2474,God's Not Dead,2014,4.8,16,36968,48
+2475,Endless Love,2014,6.3,30,36641,63
+2476,The Inbetweeners 2,2014,6.4,55,36609,64
+2477,Brick Mansions,2014,5.7,40,36516,57
+2478,Paranormal Activity: The Marked Ones,2014,5.0,42,35991,50
+2479,Time Lapse,2014,6.5,50,35888,65
+2480,The Skeleton Twins,2014,6.8,74,35830,68
+2481,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,6.2,54,35646,62
+2482,Camp X-Ray,2014,6.9,54,35638,69
+2483,Wish I Was Here,2014,6.7,43,33995,67
+2484,Winter Sleep,2014,8.2,88,33720,82
+2485,Maps to the Stars,2014,6.2,67,33476,62
+2486,Goodnight Mommy,2014,6.7,81,33165,67
+2487,Pawn Sacrifice,2014,7.0,65,32885,70
+2488,Cake,2014,6.4,49,32164,64
+2489,The Salvation,2014,6.7,64,31456,67
+2490,Left Behind,2014,3.1,12,31150,31
+2491,Love & Mercy,2014,7.4,80,30880,74
+2492,Cold in July,2014,6.8,73,30763,68
+2493,Black Sea,2014,6.4,62,30503,64
+2494,Star Wars: The Force Awakens,2015,8.0,81,754529,80
+2495,Mad Max: Fury Road,2015,8.1,90,735867,81
+2496,The Martian,2015,8.0,80,637049,80
+2497,Avengers: Age of Ultron,2015,7.4,66,605849,74
+2498,The Revenant,2015,8.0,76,577034,80
+2499,Jurassic World,2015,7.0,59,514745,70
+2500,Inside Out,2015,8.2,94,499640,82
+2501,Ant-Man,2015,7.3,64,450619,73
+2502,The Hateful Eight,2015,7.8,68,404290,78
+2503,Spectre,2015,6.8,60,339159,68
+2504,Spotlight,2015,8.1,93,337828,81
+2505,Furious 7,2015,7.2,67,325096,72
+2506,Sicario,2015,7.6,82,305658,76
+2507,Mission: Impossible - Rogue Nation,2015,7.4,75,293882,74
+2508,The Big Short,2015,7.8,81,288272,78
+2509,Room,2015,8.2,86,288083,82
+2510,Fifty Shades of Grey,2015,4.1,46,268352,41
+2511,Bridge of Spies,2015,7.6,81,250264,76
+2512,The Hunger Games: Mockingjay - Part 2,2015,6.5,65,236024,65
+2513,The Man from U.N.C.L.E.,2015,7.3,56,230320,73
+2514,Terminator Genisys,2015,6.5,38,225435,65
+2515,Spy,2015,7.0,75,206786,70
+2516,Chappie,2015,6.8,41,206752,68
+2517,Creed,2015,7.6,82,201739,76
+2518,Insurgent,2015,6.2,42,191019,62
+2519,Southpaw,2015,7.4,57,190856,74
+2520,Maze Runner: The Scorch Trials,2015,6.3,43,190163,63
+2521,Focus,2015,6.6,56,184262,66
+2522,Minions,2015,6.4,56,183108,64
+2523,The Intern,2015,7.1,51,182255,71
+2524,San Andreas,2015,6.1,43,180733,61
+2525,Everest,2015,7.1,64,173874,71
+2526,Jupiter Ascending,2015,5.3,40,161416,53
+2527,The Lobster,2015,7.1,82,159815,71
+2528,Straight Outta Compton,2015,7.9,72,158968,79
+2529,Tomorrowland,2015,6.5,60,156767,65
+2530,Ted 2,2015,6.3,48,156565,63
+2531,Black Mass,2015,6.9,68,150328,69
+2532,The Witch,2015,6.8,83,136348,68
+2533,The Danish Girl,2015,7.1,66,136150,71
+2534,Fantastic Four,2015,4.3,27,135039,43
+2535,Cinderella,2015,6.9,67,133931,69
+2536,Steve Jobs,2015,7.2,82,133139,72
+2537,The Age of Adaline,2015,7.2,51,130715,72
+2538,Legend,2015,7.0,55,129769,70
+2539,Pitch Perfect 2,2015,6.4,63,124350,64
+2540,Trainwreck,2015,6.2,75,117846,62
+2541,The Gift,2015,7.1,77,116505,71
+2542,Pixels,2015,5.6,27,114553,56
+2543,Crimson Peak,2015,6.5,66,114191,65
+2544,Joy,2015,6.6,56,112268,66
+2545,Brooklyn,2015,7.5,87,110785,75
+2546,Me and Earl and the Dying Girl,2015,7.8,74,107510,78
+2547,Get Hard,2015,6.0,34,106165,60
+2548,The Walk,2015,7.3,70,105052,73
+2549,In the Heart of the Sea,2015,6.9,47,103643,69
+2550,The Visit,2015,6.2,55,96231,62
+2551,Carol,2015,7.2,95,93521,72
+2552,Run All Night,2015,6.6,59,90687,66
+2553,Burnt,2015,6.6,42,90349,66
+2554,Daddy's Home,2015,6.1,42,90208,61
+2555,The Good Dinosaur,2015,6.7,66,87441,67
+2556,Hotel Transylvania 2,2015,6.7,44,84550,67
+2557,Paper Towns,2015,6.3,56,83831,63
+2558,Vacation,2015,6.1,34,83792,61
+2559,Home,2015,6.6,55,83218,66
+2560,The Last Witch Hunter,2015,6.0,34,81737,60
+2561,Green Room,2015,7.0,79,81237,70
+2562,Hitman: Agent 47,2015,5.7,28,77792,57
+2563,Insidious: Chapter 3,2015,6.1,52,77301,61
+2564,Self/less,2015,6.5,34,77079,65
+2565,Dope,2015,7.2,72,74344,72
+2566,Concussion,2015,7.1,55,73598,71
+2567,Hardcore Henry,2015,6.7,51,73170,67
+2568,American Ultra,2015,6.1,50,73154,61
+2569,Demolition,2015,7.0,49,72721,70
+2570,Entourage,2015,6.6,38,69513,66
+2571,Eye in the Sky,2015,7.3,73,69375,73
+2572,Project Almanac,2015,6.4,47,69258,64
+2573,The Duff,2015,6.5,56,68924,65
+2574,No Escape,2015,6.8,38,66971,68
+2575,The Longest Ride,2015,7.1,33,66886,71
+2576,Goosebumps,2015,6.3,60,66473,63
+2577,Trumbo,2015,7.5,60,66120,75
+2578,The Wedding Ringer,2015,6.7,35,64831,67
+2579,Knock Knock,2015,4.9,53,64348,49
+2580,Bone Tomahawk,2015,7.1,72,62314,71
+2581,Youth,2015,7.3,64,61225,73
+2582,The Invitation,2015,6.7,74,60814,67
+2583,Beasts of No Nation,2015,7.8,79,59298,78
+2584,Mortdecai,2015,5.5,27,58227,55
+2585,Sisters,2015,6.0,58,56926,60
+2586,Mr. Holmes,2015,6.9,67,56033,69
+2587,Child 44,2015,6.5,41,55923,65
+2588,Anomalisa,2015,7.3,88,54650,73
+2589,The Night Before,2015,6.4,58,54369,64
+2590,Pan,2015,5.8,36,53697,58
+2591,Point Break,2015,5.3,34,51353,53
+2592,Krampus,2015,6.2,49,50808,62
+2593,Aloha,2015,5.4,40,50130,54
+2594,Poltergeist,2015,4.9,47,49987,49
+2595,Irrational Man,2015,6.6,53,47639,66
+2596,Macbeth,2015,6.6,71,47147,66
+2597,Blackhat,2015,5.4,51,47031,54
+2598,The Little Prince,2015,7.8,70,46972,78
+2599,True Story,2015,6.3,50,46955,63
+2600,Magic Mike XXL,2015,5.6,60,46833,56
+2601,Solace,2015,6.4,36,46165,64
+2602,Woman in Gold,2015,7.3,51,46154,73
+2603,Victor Frankenstein,2015,6.0,36,44816,60
+2604,Wild Card,2015,5.6,40,44299,56
+2605,The Dressmaker,2015,7.1,47,43230,71
+2606,Hot Pursuit,2015,5.1,31,43219,51
+2607,Man Up,2015,6.8,69,41994,68
+2608,Amy,2015,7.8,85,41727,78
+2609,Victoria,2015,7.7,77,41693,77
+2610,The SpongeBob Movie: Sponge Out of Water,2015,6.0,62,41440,60
+2611,The Man Who Knew Infinity,2015,7.2,56,40010,72
+2612,Far from the Madding Crowd,2015,7.1,71,39245,71
+2613,Sinister 2,2015,5.3,32,38535,53
+2614,Scouts Guide to the Zombie Apocalypse,2015,6.3,32,38436,63
+2615,The Colony,2015,7.1,33,38348,71
+2616,Mr. Right,2015,6.3,52,38207,63
+2617,The Peanuts Movie,2015,7.1,67,37711,71
+2618,Maggie,2015,5.6,52,37457,56
+2619,Son of Saul,2015,7.5,89,36534,75
+2620,Dark Places,2015,6.2,39,36442,62
+2621,Slow West,2015,6.9,72,36040,69
+2622,The Ridiculous 6,2015,4.8,18,36019,48
+2623,Ip Man 3,2015,7.1,57,35824,71
+2624,The Lazarus Effect,2015,5.2,31,35281,52
+2625,The Transporter Refueled,2015,5.2,32,34753,52
+2626,Secret in Their Eyes,2015,6.3,45,34643,63
+2627,The Gunman,2015,5.8,39,34590,58
+2628,Last Knights,2015,6.2,27,34412,62
+2629,A Man Called Ove,2015,7.7,70,34362,77
+2630,Sleeping with Other People,2015,6.5,64,33933,65
+2631,The Boy Next Door,2015,4.7,30,33487,47
+2632,Hot Tub Time Machine 2,2015,5.1,29,33356,51
+2633,Going Clear: Scientology & the Prison of Belief,2015,8.0,80,32928,80
+2634,Suffragette,2015,6.9,67,32205,69
+2635,Absolutely Anything,2015,6.0,31,31987,60
+2636,High-Rise,2015,5.6,65,31772,56
+2637,Regression,2015,5.7,32,31531,57
+2638,Love,2015,6.0,51,31460,60
+2639,Shaun the Sheep Movie,2015,7.4,81,31103,74
+2640,The 33,2015,6.9,55,30827,69
+2641,We Are Your Friends,2015,6.2,46,30501,62
+2642,"McFarland, USA",2015,7.4,60,30091,74
+2643,The Stanford Prison Experiment,2015,6.9,67,29994,69
+2644,Paul Blart: Mall Cop 2,2015,4.4,13,29493,44
+2645,Mustang,2015,7.6,83,28858,76
+2646,The Final Girls,2015,6.6,59,28398,66
+2647,The Second Best Exotic Marigold Hotel,2015,6.6,51,27779,66
+2648,Deadpool,2016,8.0,65,764626,80
+2649,Batman v Superman: Dawn of Justice,2016,6.6,44,547023,66
+2650,Captain America: Civil War,2016,7.8,75,524288,78
+2651,Suicide Squad,2016,6.1,40,494505,61
+2652,Arrival,2016,7.9,81,471049,79
+2653,Doctor Strange,2016,7.5,72,450131,75
+2654,Rogue One: A Star Wars Story,2016,7.8,65,442893,78
+2655,La La Land,2016,8.1,93,394419,81
+2656,Zootopia,2016,8.0,78,355905,80
+2657,Hacksaw Ridge,2016,8.1,71,335309,81
+2658,X-Men: Apocalypse,2016,7.0,52,330509,70
+2659,Fantastic Beasts and Where to Find Them,2016,7.4,66,316890,74
+2660,Split,2016,7.3,62,285645,73
+2661,Passengers,2016,7.0,41,283836,70
+2662,10 Cloverfield Lane,2016,7.2,76,245554,72
+2663,The Jungle Book,2016,7.4,77,230155,74
+2664,The Nice Guys,2016,7.4,70,223640,74
+2665,The Accountant,2016,7.4,51,218196,74
+2666,Warcraft: The Beginning,2016,6.9,32,216182,69
+2667,Moonlight,2016,7.4,99,204661,74
+2668,Moana,2016,7.6,81,202752,76
+2669,Star Trek: Beyond,2016,7.1,68,200067,71
+2670,Finding Dory,2016,7.3,77,199204,73
+2671,Now You See Me 2,2016,6.5,46,198373,65
+2672,Manchester by the Sea,2016,7.8,96,196631,78
+2673,Nocturnal Animals,2016,7.5,67,186534,75
+2674,Sully,2016,7.5,74,185360,75
+2675,Jason Bourne,2016,6.6,58,180914,66
+2676,The Conjuring 2,2016,7.4,65,176876,74
+2677,Ghostbusters: Answer the Call,2016,5.3,60,176499,53
+2678,Don't Breathe,2016,7.1,71,170656,71
+2679,Lion,2016,8.1,69,166419,81
+2680,The Promise,2016,6.1,49,162522,61
+2681,Hell or High Water,2016,7.6,88,160660,76
+2682,The Magnificent Seven,2016,6.9,54,158553,69
+2683,Assassin's Creed,2016,5.8,36,156893,58
+2684,Hidden Figures,2016,7.8,74,156715,78
+2685,Me Before You,2016,7.4,51,153871,74
+2686,The Secret Life of Pets,2016,6.5,61,150552,65
+2687,Sausage Party,2016,6.2,66,150409,62
+2688,Independence Day: Resurgence,2016,5.2,32,148665,52
+2689,Captain Fantastic,2016,7.9,72,146289,79
+2690,The Legend of Tarzan,2016,6.3,44,142336,63
+2691,War Dogs,2016,7.1,57,142309,71
+2692,The Girl on the Train,2016,6.5,48,139638,65
+2693,Miss Peregrine's Home for Peculiar Children,2016,6.7,57,132545,67
+2694,Inferno,2016,6.2,42,128604,62
+2695,Central Intelligence,2016,6.3,52,126286,63
+2696,Deepwater Horizon,2016,7.1,68,124446,71
+2697,London Has Fallen,2016,5.9,28,117990,59
+2698,Allied,2016,7.1,60,115544,71
+2699,Jack Reacher: Never Go Back,2016,6.1,47,111490,61
+2700,Snowden,2016,7.3,58,109213,73
+2701,Your Name.,2016,8.4,79,108500,84
+2702,Kung Fu Panda 3,2016,7.1,66,107074,71
+2703,"Hail, Caesar!",2016,6.3,72,105481,63
+2704,Sing,2016,7.1,59,103739,71
+2705,The Great Wall,2016,6.0,42,102547,60
+2706,The Shallows,2016,6.3,59,100594,63
+2707,Kubo and the Two Strings,2016,7.8,84,97543,78
+2708,13 Hours,2016,7.3,48,96947,73
+2709,Nerve,2016,6.6,58,95992,66
+2710,Neighbors 2: Sorority Rising,2016,5.7,58,95842,57
+2711,Train to Busan,2016,7.5,72,95528,75
+2712,Dirty Grandpa,2016,5.9,21,94697,59
+2713,Bad Moms,2016,6.2,60,94051,62
+2714,Lights Out,2016,6.3,58,93408,63
+2715,Gods of Egypt,2016,5.4,25,89608,54
+2716,Allegiant,2016,5.7,33,88138,57
+2717,The Founder,2016,7.2,66,86996,72
+2718,The 5th Wave,2016,5.2,33,86244,52
+2719,Swiss Army Man,2016,7.0,64,84035,70
+2720,Why Him?,2016,6.2,39,83655,62
+2721,Money Monster,2016,6.5,55,82431,65
+2722,The Huntsman: Winter's War,2016,6.1,35,81900,61
+2723,Hunt for the Wilderpeople,2016,7.9,81,79362,79
+2724,Silence,2016,7.2,79,78954,72
+2725,Fences,2016,7.2,79,78925,72
+2726,The Brothers Grimsby,2016,6.2,44,77517,62
+2727,The Edge of Seventeen,2016,7.4,77,77075,74
+2728,The Purge: Election Year,2016,6.0,55,73707,60
+2729,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,6.0,40,73430,60
+2730,Alice Through the Looking Glass,2016,6.2,34,73405,62
+2731,Collateral Beauty,2016,6.8,23,71895,68
+2732,Mike and Dave Need Wedding Dates,2016,6.0,51,70308,60
+2733,How to Be Single,2016,6.1,51,70247,61
+2734,Eddie the Eagle,2016,7.4,54,70182,74
+2735,Patriots Day,2016,7.4,69,69568,74
+2736,Sing Street,2016,8.0,79,69531,80
+2737,Resident Evil: The Final Chapter,2016,5.6,49,69332,56
+2738,Hush,2016,6.6,67,67261,66
+2739,The Neon Demon,2016,6.2,51,67228,62
+2740,The Handmaiden,2016,8.1,84,66847,81
+2741,The Angry Birds Movie,2016,6.3,43,66379,63
+2742,Midnight Special,2016,6.6,76,65417,66
+2743,The Autopsy of Jane Doe,2016,6.8,65,65168,68
+2744,The BFG,2016,6.4,66,65126,64
+2745,A Monster Calls,2016,7.5,76,64915,75
+2746,A Cure for Wellness,2016,6.4,47,64364,64
+2747,The Boy,2016,6.0,42,64158,60
+2748,Mechanic: Resurrection,2016,5.7,38,62387,57
+2749,Jackie,2016,6.7,81,61854,67
+2750,The Lost City of Z,2016,6.6,78,60768,66
+2751,Trolls,2016,6.5,56,59220,65
+2752,Underworld: Blood Wars,2016,5.8,23,58556,58
+2753,Café Society,2016,6.6,64,58552,66
+2754,The Infiltrator,2016,7.0,66,58111,70
+2755,Triple 9,2016,6.3,52,57430,63
+2756,Zoolander 2,2016,4.7,34,57392,47
+2757,Bridget Jones's Baby,2016,6.6,59,55617,66
+2758,The Finest Hours,2016,6.8,58,53373,68
+2759,Office Christmas Party,2016,5.8,42,51080,58
+2760,Elle,2016,7.2,89,50882,72
+2761,Paterson,2016,7.4,90,49389,74
+2762,Blood Father,2016,6.4,66,49324,64
+2763,Criminal,2016,6.3,36,48674,63
+2764,Keeping Up with the Joneses,2016,5.9,34,48389,59
+2765,Storks,2016,6.8,56,47385,68
+2766,Pete's Dragon,2016,6.7,71,46923,67
+2767,Colossal,2016,6.2,70,46381,62
+2768,Gold,2016,6.7,49,46216,67
+2769,Miss Sloane,2016,7.5,64,45999,75
+2770,Ride Along 2,2016,5.9,32,45840,59
+2771,Everybody Wants Some!!,2016,7.0,83,45705,70
+2772,Ice Age: Collision Course,2016,5.7,34,44647,57
+2773,Whiskey Tango Foxtrot,2016,6.6,57,44360,66
+2774,Live by Night,2016,6.4,49,43859,64
+2775,Raw,2016,7.0,81,43833,70
+2776,The Fundamentals of Caring,2016,7.3,55,43534,73
+2777,Popstar: Never Stop Never Stopping,2016,6.7,68,43297,67
+2778,Ouija: Origin of Evil,2016,6.1,65,43133,61
+2779,Pride and Prejudice and Zombies,2016,5.8,45,43082,58
+2780,Masterminds,2016,5.8,47,42084,58
+2781,The Light Between Oceans,2016,7.2,60,42017,72
+2782,Florence Foster Jenkins,2016,6.9,71,42004,69
+2783,The Girl with All the Gifts,2016,6.7,67,41852,67
+2784,Free State of Jones,2016,6.9,53,40652,69
+2785,"I, Daniel Blake",2016,7.9,78,40020,79
+2786,Keanu,2016,6.3,63,39189,63
+2787,The Salesman,2016,7.8,85,36904,78
+2788,The Boss,2016,5.4,40,36638,54
+2789,Ben-Hur,2016,5.7,38,35793,57
+2790,Toni Erdmann,2016,7.4,93,35552,74
+2791,Imperium,2016,6.5,68,35460,65
+2792,Anthropoid,2016,7.2,59,35264,72
+2793,The Belko Experiment,2016,6.1,44,35062,61
+2794,The Forest,2016,4.8,34,34712,48
+2795,Blair Witch,2016,5.0,47,34444,50
+2796,Meet the Blacks,2016,6.0,26,33761,60
+2797,A Hologram for the King,2016,6.1,58,33527,61
+2798,Morgan,2016,5.8,48,33191,58
+2799,Free Fire,2016,6.4,63,32779,64
+2800,The Do-Over,2016,5.7,22,30758,57
+2801,The Wailing,2016,7.4,81,30474,74
+2802,Before I Wake,2016,6.2,68,29335,62
+2803,Race,2016,7.1,56,29096,71
+2804,20th Century Women,2016,7.3,83,28896,73
+2805,American Honey,2016,7.0,79,28662,70
+2806,The Take,2016,6.3,48,28559,63
+2807,Logan,2017,8.1,77,510372,81
+2808,Wonder Woman,2017,7.5,76,437812,75
+2809,Dunkirk,2017,8.0,94,419985,80
+2810,Star Wars: The Last Jedi,2017,7.2,85,416710,72
+2811,Guardians of the Galaxy Vol. 2,2017,7.7,67,412523,77
+2812,Thor: Ragnarok,2017,7.9,74,388962,79
+2813,Spider-Man: Homecoming,2017,7.5,73,359437,75
+2814,Get Out,2017,7.7,84,333820,77
+2815,Blade Runner 2049,2017,8.1,81,332841,81
+2816,Baby Driver,2017,7.6,86,325723,76
+2817,It,2017,7.4,69,307839,74
+2818,Justice League,2017,6.6,45,285209,66
+2819,"Three Billboards Outside Ebbing, Missouri",2017,8.2,88,280586,82
+2820,The Shape of Water,2017,7.4,87,252323,74
+2821,John Wick: Chapter 2,2017,7.5,75,243899,75
+2822,Coco,2017,8.4,81,219677,84
+2823,Beauty and the Beast,2017,7.2,65,217197,72
+2824,Kong: Skull Island,2017,6.7,62,216355,67
+2825,Alien: Covenant,2017,6.4,65,209512,64
+2826,Pirates of the Caribbean: Dead Men Tell No Tales,2017,6.6,39,207188,66
+2827,Jumanji: Welcome to the Jungle,2017,7.0,58,206051,70
+2828,Kingsman: The Golden Circle,2017,6.8,44,203452,68
+2829,War for the Planet of the Apes,2017,7.5,82,184700,75
+2830,The Fate of the Furious,2017,6.7,56,167715,67
+2831,Life,2017,6.6,54,165043,66
+2832,Ghost in the Shell,2017,6.4,52,161047,64
+2833,Murder on the Orient Express,2017,6.5,52,156696,65
+2834,King Arthur: Legend of the Sword,2017,6.8,41,156006,68
+2835,The Greatest Showman,2017,7.7,48,155495,77
+2836,Lady Bird,2017,7.5,94,147642,75
+2837,The Hitman's Bodyguard,2017,6.9,47,144826,69
+2838,Wind River,2017,7.8,73,144217,78
+2839,The Mummy,2017,5.5,34,141346,55
+2840,Bright,2017,6.4,29,135493,64
+2841,Mother!,2017,6.6,75,135314,66
+2842,Atomic Blonde,2017,6.7,63,135133,67
+2843,Valerian and the City of a Thousand Planets,2017,6.5,51,126790,65
+2844,Call Me by Your Name,2017,8.0,93,126093,80
+2845,Baywatch,2017,5.6,37,116822,56
+2846,American Made,2017,7.2,65,115805,72
+2847,Darkest Hour,2017,7.4,75,113559,74
+2848,"I, Tonya",2017,7.5,77,111640,75
+2849,Transformers: The Last Knight,2017,5.2,27,106420,52
+2850,The Lego Batman Movie,2017,7.3,75,104774,73
+2851,The Dark Tower,2017,5.7,34,97530,57
+2852,The Disaster Artist,2017,7.5,76,95186,75
+2853,The Big Sick,2017,7.6,86,94049,76
+2854,Logan Lucky,2017,7.0,78,93939,70
+2855,The Post,2017,7.2,83,88716,72
+2856,Wonder,2017,8.0,66,88592,80
+2857,T2 Trainspotting,2017,7.2,67,86330,72
+2858,Power Rangers,2017,6.0,44,85816,60
+2859,The Boss Baby,2017,6.3,50,84474,63
+2860,Molly's Game,2017,7.5,71,82785,75
+2861,Despicable Me 3,2017,6.3,49,80432,63
+2862,Annabelle: Creation,2017,6.5,62,78258,65
+2863,Fifty Shades Darker,2017,4.6,33,75121,46
+2864,Gifted,2017,7.6,60,73600,76
+2865,xXx: Return of Xander Cage,2017,5.2,42,72933,52
+2866,What Happened to Monday,2017,6.9,47,72862,69
+2867,The Killing of a Sacred Deer,2017,7.0,73,72687,70
+2868,The Foreigner,2017,7.0,55,71538,70
+2869,Phantom Thread,2017,7.6,90,70316,76
+2870,Geostorm,2017,5.3,21,68760,53
+2871,The Circle,2017,5.3,43,66153,53
+2872,Happy Death Day,2017,6.5,57,64976,65
+2873,Okja,2017,7.3,75,64538,73
+2874,It Comes at Night,2017,6.2,78,61950,62
+2875,Death Note,2017,4.6,43,61432,46
+2876,Downsizing,2017,5.7,63,60207,57
+2877,Going in Style,2017,6.6,50,59980,66
+2878,The Florida Project,2017,7.6,92,59587,76
+2879,Gerald's Game,2017,6.6,77,52013,66
+2880,Shot Caller,2017,7.3,59,51103,73
+2881,American Assassin,2017,6.2,45,50911,62
+2882,Cars 3,2017,6.8,59,50701,68
+2883,Jigsaw,2017,5.8,39,49455,58
+2884,All the Money in the World,2017,6.9,72,49411,69
+2885,The Mountain Between Us,2017,6.4,48,49025,64
+2886,A Dog's Purpose,2017,7.0,43,47330,70
+2887,The Death of Stalin,2017,7.2,88,47174,72
+2888,You Were Never Really Here,2017,6.9,84,47073,69
+2889,Good Time,2017,7.3,80,44414,73
+2890,The Emoji Movie,2017,3.2,12,42785,32
+2891,The Ritual,2017,6.3,57,42113,63
+2892,The Snowman,2017,5.1,23,41798,51
+2893,A Ghost Story,2017,6.8,84,40288,68
+2894,Hostiles,2017,7.2,65,39581,72
+2895,Daddy's Home 2,2017,6.0,30,38469,60
+2896,The Beguiled,2017,6.3,77,38432,63
+2897,The Square,2017,7.3,73,37371,73
+2898,Brawl in Cell Block 99,2017,7.1,79,37204,71
+2899,Battle of the Sexes,2017,6.7,73,36907,67
+2900,The Space Between Us,2017,6.4,33,36822,64
+2901,Pitch Perfect 3,2017,5.9,40,36782,59
+2902,Paddington 2,2017,7.9,88,35798,79
+2903,Only the Brave,2017,7.7,72,35567,77
+2904,Detroit,2017,7.4,77,35394,74
+2905,Rough Night,2017,5.2,51,35191,52
+2906,47 Metres Down,2017,5.6,52,34951,56
+2907,Before I Fall,2017,6.4,58,34756,64
+2908,I Don't Feel at Home in This World Anymore.,2017,6.9,75,32938,69
+2909,Ferdinand,2017,6.7,58,32874,67
+2910,CHIPS,2017,6.0,28,32829,60
+2911,Loving Vincent,2017,7.8,62,32759,78
+2912,Fist Fight,2017,5.6,37,31570,56
+2913,War Machine,2017,6.0,56,31488,60
+2914,Rings,2017,4.5,25,31488,45
+2915,Jungle,2017,6.7,48,31016,67
+2916,Flatliners,2017,5.2,27,29332,52
+2917,Mudbound,2017,7.4,85,29123,74
+2918,1922,2017,6.3,70,29045,63
+2919,The House,2017,5.6,30,28987,56
+2920,To the Bone,2017,6.9,64,28554,69
+2921,The Zookeeper's Wife,2017,7.0,57,27854,70
+2922,Snatched,2017,4.4,45,27730,44
+2923,Stronger,2017,7.0,76,27617,70
+2924,Girls Trip,2017,6.2,71,26275,62
+2925,Kidnap,2017,5.9,44,26228,59
+2926,The Meyerowitz Stories (New and Selected),2017,7.0,79,26184,70
+2927,A Bad Moms Christmas,2017,5.5,42,26127,55
+2928,Suburbicon,2017,5.6,42,25919,56
+2929,Icarus,2017,8.0,68,24125,80
+2930,Ingrid Goes West,2017,6.6,71,23598,66
+2931,The Shack,2017,6.3,32,23285,63
+2932,Sleepless,2017,5.6,34,23141,56
+2933,"Everything, Everything",2017,6.4,52,22957,64
+2934,The Discovery,2017,6.3,54,22257,63
+2935,Victoria & Abdul,2017,6.8,58,21738,68
+2936,The Ottoman Lieutenant,2017,6.7,26,21454,67
+2937,Table 19,2017,5.8,40,20446,58
+2938,Unlocked,2017,6.2,46,20436,62
+2939,Cargo,2017,6.3,65,20103,63
+2940,Captain Underpants: The First Epic Movie,2017,6.2,69,20036,62
+2941,Loveless,2017,7.7,86,19772,77
+2942,I Kill Giants,2017,6.2,74,19522,62
+2943,The Glass Castle,2017,7.2,56,19309,72
+2944,Home Again,2017,5.8,41,19113,58
+2945,"Roman J. Israel, Esq.",2017,6.4,58,18843,64
+2946,The Wall,2017,6.2,57,18336,62
+2947,Thoroughbreds,2017,6.8,75,17799,68
