@@ -1,4 +1,4 @@
-# Web Scraping IMDB & Metascore Movie Ratings For Analysis #
+# Applying Web Scraping On IMDB & Metascore Movie Ratings #
 
 <table>
   <tr> </tr>
@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <a href="https://nbviewer.jupyter.org/github/lionelcub/web_scraping_IMDB_and_metascore_movie_ratings_for_analysis/blob/master/web_scraping_IMDB_and_metascore_movie_ratings_for_analysis.ipynb">Web Scraping IMDB & Metascore Movie Ratings For Analysis.</a> 
+      <a href="https://nbviewer.jupyter.org/github/lionelcub/applying_web_scraping_on_IMDB_and_metascore_movie_ratings/blob/master/applying_web_scraping_on_IMDB_and_metascore_movie_ratings.ipynb">Applying Web Scraping On IMDB & Metascore Movie Ratings.</a> 
       (Link to Notebook Viewer)
     </td>
   </tr>
@@ -55,7 +55,7 @@
     <td colspan="4">
     <ul>
       <p></p>
-      <li><a href="https://github.com/lionelcub/web_scraping_IMDB_and_metascore_movie_ratings_for_analysis/blob/master/web_scraping_IMDB_and_metascore_movie_ratings_for_analysis/csv/movie_ratings_2000_to_2017.csv" target="_blank">Movie Ratings 2000–2017.</a></li>
+      <li><a href="https://github.com/lionelcub/applying_web_scraping_on_IMDB_and_metascore_movie_ratings/blob/master/applying_web_scraping_on_IMDB_and_metascore_movie_ratings/csv/movie_ratings_2000_to_2017.csv" target="_blank">Movie Ratings 2000–2017.</a></li>
      </ul>
     </td>
   </tr>
